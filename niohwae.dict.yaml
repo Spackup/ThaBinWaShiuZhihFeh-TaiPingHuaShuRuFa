@@ -299,7 +299,7 @@ columns:
 㜽	tsy	
 衞	yu
 衛	yu
-也	ia	0
+也	ia
 也	eh	404779
 也	ah	404779
 女	nhiu	
@@ -795,6 +795,7 @@ columns:
 死	sy
 成	zhin
 夾	kih
+夾	keh
 夾	gih
 軌	kiu
 邪	zhia	
@@ -974,8 +975,8 @@ columns:
 交	kau
 次	tshy
 衣	i
-產	tshae
-產	sae
+產	tshae	96%
+產	sae	4%
 決	kioh
 決	cioh
 充	chion
@@ -1109,7 +1110,7 @@ columns:
 壞	wa
 擾	zhiau
 拒	giu
-找	tsau	0
+找	tsau	1200
 批	phi
 撦	tshe	1389
 扯	tshe
@@ -1126,7 +1127,7 @@ columns:
 折	zhih	
 摺	cih
 折	cih
-抓	tsau	0
+抓	tsau	1200
 扮	pae
 扮	hua
 搶	chian			
@@ -1234,7 +1235,7 @@ columns:
 助	zou	
 助	zou	
 縣	yoe	
-縣	yoe	
+县	yoe	
 縣	yoe	
 縣	yoe	
 裏	lhi	99%
@@ -1390,8 +1391,9 @@ columns:
 應	in
 應	in
 冷	lhan
-這	cih	0
-這	cioh	0
+這	cih	1800
+這	cioh	1800
+這	cia	1800
 序	zhiu
 辛	shin
 棄	khi
@@ -1644,9 +1646,9 @@ columns:
 肯	khen
 齒	tshy
 齒	tshy
-些	shia	0
+些	shia	1200
 些薄	shia boh
-些	shih	0
+些	shih	1200
 虎	hu
 虎	fu
 虜	lhou
@@ -1720,7 +1722,7 @@ columns:
 颳	kueh
 刮	kueh
 稈	kie
-和	wu	0
+和	wu	1200
 和尚	u zaon
 季	kiu
 委	iu		
@@ -2241,8 +2243,8 @@ columns:
 卸	shia
 缸	kaon
 拜	pa
-看	khie	0	
-看	chie	0
+看	khie	1200	
+看	chie	1200
 𥉏	khie	
 矩	kiu
 怎	tsa
@@ -2372,7 +2374,9 @@ columns:
 帝	ti
 施	sy
 聞	ven
-聞	ven
+聞	men
+闻	men
+闻	ven
 閥	veh
 閥	veh
 閣	koh
@@ -2558,8 +2562,8 @@ columns:
 驕	kiau
 驕	ciau
 繪	we
-給	kih	0
-給	cih	0
+給	kih	1800
+給	cih	1800
 絡	loh
 駱	loh
 絕	zhioh
@@ -2980,7 +2984,7 @@ columns:
 祥	zhian
 課	khu
 課	khu
-誰	zhiu	0
+誰	zhiu	1200
 調	diau
 調	diau
 調	diau
@@ -3011,7 +3015,7 @@ columns:
 娘	nian
 孃	nian
 通	thon
-能	nen	0
+能	nen	1800
 難	nae	
 難	nae	
 難	nae		
@@ -3334,8 +3338,8 @@ columns:
 插	tsheh
 揫	ciou
 揪	ciou
-蒐	seu
-搜	seu
+蒐	shieu
+搜	shieu
 煮	tsy	9870
 援	yoe
 裁	ze
@@ -3514,8 +3518,8 @@ columns:
 鲁	lhou
 猾	weh
 猴	yeu
-然	nie	4%
-然	zhie	96%
+然	nie
+然	zhie
 饞	zae
 饞	zae
 裝	tsaon
@@ -3713,7 +3717,8 @@ columns:
 矮	a
 辭	zy
 稠	jiou
-愁	zeu
+稠	jieu
+愁	zhieu
 籌	jiou
 筹	jiou
 簽	chie
@@ -3853,7 +3858,7 @@ columns:
 裳	zaon
 顆	khu
 顆	khu
-嗽	seu
+嗽	shieu
 蜻	chin
 蠟	leh
 蠅	yin
@@ -3896,7 +3901,7 @@ columns:
 遮	tso
 腐	vu
 腐	wu
-瘦	seu
+瘦	shieu
 辣	leh
 竭	gih
 竭	jih
@@ -4008,7 +4013,7 @@ columns:
 躺	thaon
 僻	phih
 德	teh
-艘	seu
+艘	shieu
 膝	shih
 膛	daon
 熟	zhioh
@@ -4044,8 +4049,8 @@ columns:
 㒹	tie	
 橘	kioh
 橘	cioh
-橘兒	cion
-橘兒	kion
+橘	cion
+橘	kion
 整	cin
 融	yon
 醒	shin
@@ -4107,7 +4112,9 @@ columns:
 燥	sau
 臂	pi
 翼	yih
-驟	zeu
+驟	zhieu
+驟	jieu
+骤	jieu
 鞭	pie
 覆	foh
 覆	phoh
@@ -5234,7 +5241,7 @@ columns:
 瘟	uen
 彰	tsaon
 粹	ze
-漱	seu
+漱	shieu
 漩	zhioe
 漾	yan
 慷	khaon
@@ -5848,8 +5855,8 @@ columns:
 巳	zy
 慫	shion
 慫	shion
-擻	seu
-擻	seu
+擻	shieu
+擻	shieu
 僳	shioh
 隋	zhiu	
 隋	dou	
@@ -6513,7 +6520,7 @@ columns:
 淙	zon
 琮	zon
 楱	tsheu
-楱	zeu
+楱	zhieu
 腠	tsheu
 輳	tsheu
 輳	tsheu
@@ -7689,7 +7696,6 @@ columns:
 𨇮	kioh	
 膾	kue
 膾	kue
- 	kue	
 鱠	kue	
 莰	khie
 哐	kiaon
@@ -9013,21 +9019,21 @@ columns:
 嵩	sion
 悚	sion
 竦	sion
-嗖	seu
-溲	seu
-溲	seu
-餿	seu
-餿	seu
-颼	seu
-颼	seu
-鎪	seu
-鎪	seu
-螋	seu
-叟	seu
-嗾	seu
-瞍	seu
-藪	seu
-藪	seu
+嗖	shieu
+溲	shieu
+溲	shieu
+餿	shieu
+餿	shieu
+颼	shieu
+颼	shieu
+鎪	shieu
+鎪	shieu
+螋	shieu
+叟	shieu
+嗾	shieu
+瞍	shieu
+藪	shieu
+藪	shieu
 蒔	zy
 蒔	zy
 蒔	zy
@@ -11184,6 +11190,7 @@ columns:
 時間	zy kiae	800
 時節	zy cih	800
 塌爛	theh lae	800
+塌爛個		1800
 頭起		29663
 閒長	ghae jian	800
 閒時	ghae zy	800
@@ -11269,13 +11276,13 @@ columns:
 昨夜	zo ya
 長長夜	jian jian ya
 大前夜	dou zhie ya
-日夾夜	nih kih ya
+日夾夜
 上半夜	zaon poe ya
 下半夜	o poe ya
 整長夜	cin jian ya
 半夜三更	poe ya sae kan
 長日長夜	jian nih jian ya
-日夾星夜	nih kih shin ya
+日夾星夜
 三更半夜	sae kan poe ya
 三十夜黃昏	sae zhih ya waon khuen
 月初	nioh tshou
@@ -12599,306 +12606,306 @@ columns:
 夜接力	ya cih lin	1800
 早接力	tsau cih lih	1800
 早接力	tsau cih lin	1800
-圓	yoe
-糉	tson
-炒米	tshau mhi
-豆麪	dieu mie
-冷粥	lhan cion
-麻餈	mo zy
-麥麪	meh mie
-米擂	mhi le
-米麥羹	mhi meh kan
-米麪	mhi mie
-麪包	mie pau
-麪羹	mie kan
-青餣	chin ie
-碎米	se mhi
-細糠	shi khaon
-小麥麪羹	shiau meh mie kan
-洋粉	yan fen
-煬糕	yan kau
-粥湯	cioh thaon
-大麥粉	dou meh fen
-大排糕	da ba kau
-糕乾胚
-雞蛋糕
-快速麪	khua soh mie
-綠豆麪	loh dieu mie
-麥撮撮	meh tshoh tshoe
-䭩䭩粥	man man cion
-糯米圓	non mhi yoe
-皮蛋粥	bi dae cion
-清水麪	chin shiu mie
-三角菱	sae koh lin
-山粉糊	sae fen wu
-綠豆麪羹	loh dieu mie kan
-桐樹箬包	don zhiu nih pau
-桐子箬包	don tsy nih pau
-白鯗	beh shian
-包腳
-炊皮	chiu bi
-烤鴨	khau ae
-薧頭	khau dieu
-鰻鯗	moe shian
-肉散	nioh sae
-頭爿	dieu bae
-蟳湯	yin thaon
-魚生	ng san
-魚鯗	ng shian
-魚圓	ng yoe
-赤豬肉	chih tsy nion
-帶魚鯗	ta ng shian
-彈鰗乾
-二頭肉	n dieu nioh
-肥豬肉	bi tsy nioh
-紅雞子
-雞腳槌
-肉皮膠	nioh bi kau
-鹽鴨蛋	ye ah dae
-鹽鴨子	ye ah tsy
-鹽豬肉	ye tsy nioh
-豬腳蹄
-豬口舌
-豬腳蹄爬
-豬肉骨頭	tsy nioh kueh dieu
-烏眼毛薧頭	u nhiae mau khau dieu
-白糖	beh daon
-冰糖	pin daon
-紅糖
-糖霜	daon saon
-牛皮糖	nieu bi daon
-荒臭	huaon chiou
-帶湯	ta thaon
-發氣
-荒氣
-積食	cih zhih
-積食	cih zhin
-冷碟	lhan die
-碗腳	ue kian
-碗腳	ue cian
-碗頭	ue dieu
-七碗八碟	chih ue peh dih
-青草	chin tshau
-石蓮	zhih lie
-飲湯	in thaon
-白滾湯	beh kuen thaon
-雞子酒
-橘子滷
-桃樹漿	dau zhiu cian
-青草豆腐	chin tshau dieu wu
-石蓮豆腐	zhih lie dieu wu
-菜油	tshe you
-炮炮	phau phau
-油蛋	you dae
-油炮	you phau
-油索	you saon
-油柱	you jiu
-帶魚炮	ta ng phau
-油炮蝦	you phau ho
-油炮帶魚	you phau ta ng
-吃口
-腐乳	wu zhiu
-哽口
-勾頭	kieu dieu
-鹹淡	ghae dae
-酵娘	kau nian
-滷濡	lhou jiu
-饅頭	mae dieu
-䭩䭩	man man
-散口
-散嘴	sae ciu
-鮮味	shie mi
-餡頭	giae dieu
-鹽滷	ye lhou
-燥貨	sau hu
-照料	ciau liau
-枯心飯	khu shin vae
-囉唆嘴	lou sou ciu
-味道頭	mi dau dieu
-囉唆散嘴	lou sou sae ciu
-三廚六頓	sae jiu loh ten
-豬缸釀滷	tsy kaon nian lhou
-爬油	bo you
-䂻肚頭	dzan dou dieu
-迫鑊	peh waon
-炊	chiu
-餡	giae
-捱油	nga you
-鏊魚	ngau ng
-𪉨蟹	chian ha
+圓	yoe	1800
+糉	tson	1800
+炒米	tshau mhi	1800
+豆麪	dieu mie	1800
+冷粥	lhan cion	1800
+麻餈	mo zy	1800
+麥麪	meh mie	1800
+米擂	mhi le	1800
+米麥羹	mhi meh kan	1800
+米麪	mhi mie	1800
+麪包	mie pau	1800
+麪羹	mie kan	1800
+青餣	chin ie	1800
+碎米	se mhi	1800
+細糠	shi khaon	1800
+小麥麪羹	shiau meh mie kan	1800
+洋粉	yan fen	1200
+煬糕	yan kau	1200
+粥湯	cioh thaon	1200
+大麥粉	dou meh fen	1200
+大排糕	da ba kau	1200
+糕乾胚		1200
+雞蛋糕		1200
+快速麪	khua soh mie	1200
+綠豆麪	loh dieu mie	1200
+麥撮撮	meh tshoh tshoe	1200
+䭩䭩粥	man man cion	1200
+糯米圓	non mhi yoe	1200
+皮蛋粥	bi dae cion	1200
+清水麪	chin shiu mie	1200
+三角菱	sae koh lin	1200
+山粉糊	sae fen wu	1200
+綠豆麪羹	loh dieu mie kan	1200
+桐樹箬包	don zhiu nih pau	1200
+桐子箬包	don tsy nih pau	1200
+白鯗	beh shian	1200
+包腳		1200
+炊皮	chiu bi	1200
+烤鴨	khau ae	1200
+薧頭	khau dieu	1200
+鰻鯗	moe shian	1200
+肉散	nioh sae	1200
+頭爿	dieu bae	1200
+蟳湯	yin thaon	1200
+魚生	ng san	1200
+魚鯗	ng shian	1200
+魚圓	ng yoe	1200
+赤豬肉	chih tsy nion	1200
+帶魚鯗	ta ng shian	1200
+彈鰗乾		1200
+二頭肉	n dieu nioh	1200
+肥豬肉	bi tsy nioh	1200
+紅雞子		1200
+雞腳槌		1200
+肉皮膠	nioh bi kau	1200
+鹽鴨蛋	ye ah dae	1200
+鹽鴨子	ye ah tsy	1200
+鹽豬肉	ye tsy nioh	1200
+豬腳蹄		1200
+豬口舌		1200
+豬腳蹄爬		1200
+豬肉骨頭	tsy nioh kueh dieu	1200
+烏眼毛薧頭	u nhiae mau khau dieu	1200
+白糖	beh daon	1200
+冰糖	pin daon	1200
+紅糖		1200
+糖霜	daon saon	1200
+牛皮糖	nieu bi daon	1200
+荒臭	huaon chiou	1200
+帶湯	ta thaon	1200
+發氣		1200
+荒氣		1200
+積食	cih zhih	1200
+積食	cih zhin	1200
+冷碟	lhan die	1200
+碗腳	ue kian	1200
+碗腳	ue cian	1200
+碗頭	ue dieu	1200
+七碗八碟	chih ue peh dih	1200
+青草	chin tshau	1200
+石蓮	zhih lie	1200
+飲湯	in thaon	1200
+白滾湯	beh kuen thaon	1200
+雞子酒		1200
+橘子滷	cioh tsy lhou	1200
+桃樹漿	dau zhiu cian	1200
+青草豆腐	chin tshau dieu wu	1200
+石蓮豆腐	zhih lie dieu wu	1200
+菜油	tshe you	1200
+炮炮	phau phau	1200
+油蛋	you dae	1200
+油炮	you phau	1200
+油索	you saon	1200
+油柱	you jiu	1200
+帶魚炮	ta ng phau	1200
+油炮蝦	you phau ho	1200
+油炮帶魚	you phau ta ng	1200
+吃口		1200
+腐乳	wu zhiu	1200
+哽口		1200
+勾頭	kieu dieu	1200
+鹹淡	ghae dae	1200
+酵娘	kau nian	1200
+滷濡	lhou jiu	1200
+饅頭	mae dieu	1200
+䭩䭩	man man	1200
+散口		1200
+散嘴	sae ciu	1200
+鮮味	shie mi	1200
+餡頭	giae dieu	1200
+鹽滷	ye lhou	1200
+燥貨	sau hu	1200
+照料	ciau liau	1200
+枯心飯	khu shin vae	1200
+囉唆嘴	lou sou ciu	1200
+味道頭	mi dau dieu	1200
+囉唆散嘴	lou sou sae ciu	1200
+三廚六頓	sae jiu loh ten	1200
+豬缸釀滷	tsy kaon nian lhou	1200
+爬油	bo you	1200
+䂻肚頭	dzan dou dieu	1200
+迫鑊	peh waon	1200
+炊	chiu	1200
+餡	giae	1200
+捱油	nga you	1200
+鏊魚	ngau ng	1200
+𪉨蟹	chian ha	1200
 吃補		1806
 吃茶		1806
 吃飯
 吃酒		5545
-吃涼
-吃熱
+吃涼		1200
+吃熱		1200
 吃湯		961
-吃奶茶
-倒湯	tau thaon
-兜飯	tieu vae
-兜湯	tieu thaon
-扼糉	ngheh tson
-放湯	faon thaon
-哽茶	gan dzo
-哽飯	gan vae
-哽酒	gan ciou
-過飯	ku vae
-過粥	ku cion
-揢箸	kho dzy
-落圓	loh yoe
-掿粉	nioh fen
-破鯗	pha shian
-塞飯	seh vae
-殺羹	seh kan
-殺豬	seh tsy
-曬鯗	so shian
-燒茶	shiau dzo
-燒飯	shiau vae
-燒火
-燒湯	shiau thaon
-生風	san fon
-識吃
-燙糕	thaon kau
-燙麪	thaon mie
-日晝飯	ni ciou vae
-煨雞
-煨鴨	ue ae
-下飯	gho vae
-餡糕	giae kau
-鹽蟹	ye ha
-舀湯	iau thaon
-用箸	yon dzy
-抯茶	chia dzo
-蘸醋	tsae tshou
-蘸滷	tsae lhou
-煮飯	tsy vae
-轉味	cioe mi
-妝飯	tsaon vae
-做糕	tsou kau
-做餃
-做圓	tsou yoe
-趁熱燙	chin nih thaon
-吃飯碗腳
-吃紅酒
-吃黃昏
-吃接力
-吃枯心
-吃老酒
-吃呣呣
-吃啤酒
-吃日晝
-吃散嘴
-吃燒酒
-吃碗腳
-吃物事
-吃香菸
-吃夜飯
-吃飲料
-炊饅頭	chiu mae dieu
-打炒米	tan tshau mhi
-打箸頭	tan dzy dieu
-兜菜蔬	tieu tshe sou
-燉雞子
-燉薧頭	ten khau dieu
-掇菜蔬	toh tshe sou
-哽菜蔬	gan tshe sou
-哽飯碗腳	gan vae ue kian
-哽飯碗腳	gan vae ue cian
-哽黃昏	gan waon khuen
-哽枯心	gan khu shin
-哽啤酒	gan bi ciou
-哽日晝	gan ni ciou
-哽散嘴	gan sae ciu
-哽碗腳	gan ue kian
-哽碗腳	gan ue cian
-哽香菸	gan shian ie
-哽夜飯	gan ya vae
-密密廚	mih mih jiu
-㷋彈鰗	dae dae wu
-㷋彈鰗乾
-煨北鴿
-煨豬腳
-煨豬肉	ue tsy nioh
-洗飯碗	shi vae ue
-餡紅糖
-餡拭餅	giae shih pin
-餡蔬菜	giae sou tshe
-餡糖霜	giae daon saon
-餡豬肉	giae tsy nioh
-枵鑊悶	shiau woh men
-枵桌罩	shiau cioh tsau
-鹽沙雨	ye so iu
-鹽蝦蛄	ye ho ku
-鹽鹽菜	ye ye tshe
-鹽魚生	ye ng san
-舀老酒
-煠雞子
-蘸紅糖
-蘸醬油	tsae cian you
-蘸糖霜	tsae daon saon
-煮菜蔬	tsy tshe sou
-吃黃昏飯
-吃枯心飯
-吃囉唆嘴
-吃葡萄酒
-吃日晝飯
-燉雞子酒
-哽黃昏飯	gan waon khuen vae
-哽枯心飯	gan khu shin vae
-哽囉唆嘴	gan lou sou sae ciu
-哽日晝飯	gan ni ciou vae
-㧕山粉糊	lhiou sae fen wu
-剩飯碗腳	jin vae ue kian
-剩飯碗腳	jin vae ue cian
-攤麥油煎	thae meh you cie
-餡麥油煎	giae meh you cie
-捉拾飯碗	cioh zhih vae ue
+吃奶茶		1200
+倒湯	tau thaon	1200
+兜飯	tieu vae	1200
+兜湯	tieu thaon	1200
+扼糉	ngheh tson	1200
+放湯	faon thaon	1200
+哽茶	gan dzo	1200
+哽飯	gan vae	1200
+哽酒	gan ciou	1200
+過飯	ku vae	1200
+過粥	ku cion	1200
+揢箸	kho dzy	1200
+落圓	loh yoe	1200
+掿粉	nioh fen	1200
+破鯗	pha shian	1200
+塞飯	seh vae	1200
+殺羹	seh kan	1200
+殺豬	seh tsy	1200
+曬鯗	so shian	1200
+燒茶	shiau dzo	1200
+燒飯	shiau vae	1200
+燒火		1200
+燒湯	shiau thaon	1200
+生風	san fon	1200
+識吃		1200
+燙糕	thaon kau	1200
+燙麪	thaon mie	1200
+日晝飯	ni ciou vae	1200
+煨雞		1200
+煨鴨	ue ae	1200
+下飯	gho vae	1200
+餡糕	giae kau	1200
+鹽蟹	ye ha	1200
+舀湯	iau thaon	1200
+用箸	yon dzy	1200
+抯茶	chia dzo	1200
+蘸醋	tsae tshou	1200
+蘸滷	tsae lhou	1200
+煮飯	tsy vae	1200
+轉味	cioe mi	1200
+妝飯	tsaon vae	1200
+做糕	tsou kau	1200
+做餃		1200
+做圓	tsou yoe	1200
+趁熱燙	chin nih thaon	1200
+吃飯碗腳		1200
+吃紅酒		1200
+吃黃昏		1200
+吃接力		1200
+吃枯心		1200
+吃老酒		1200
+吃呣呣		1200
+吃啤酒		1200
+吃日晝		1200
+吃散嘴		1200
+吃燒酒		1200
+吃碗腳		1200
+吃物事		1200
+吃香菸		1200
+吃夜飯		1200
+吃飲料		1200
+炊饅頭	chiu mae dieu	1200
+打炒米	tan tshau mhi	1200
+打箸頭	tan dzy dieu	1200
+兜菜蔬	tieu tshe sou	1200
+燉雞子		1200
+燉薧頭	ten khau dieu	1200
+掇菜蔬	toh tshe sou	1200
+哽菜蔬	gan tshe sou	1200
+哽飯碗腳	gan vae ue kian	1200
+哽飯碗腳	gan vae ue cian	1200
+哽黃昏	gan waon khuen	1200
+哽枯心	gan khu shin	1200
+哽啤酒	gan bi ciou	1200
+哽日晝	gan ni ciou	1200
+哽散嘴	gan sae ciu	1200
+哽碗腳	gan ue kian	1200
+哽碗腳	gan ue cian	1200
+哽香菸	gan shian ie	1200
+哽夜飯	gan ya vae	1200
+密密廚	mih mih jiu	1200
+㷋彈鰗	dae dae wu	1200
+㷋彈鰗乾		1200
+煨北鴿		1200
+煨豬腳		1200
+煨豬肉	ue tsy nioh	1200
+洗飯碗	shi vae ue	1200
+餡紅糖		1200
+餡拭餅	giae shih pin	1200
+餡蔬菜	giae sou tshe	1200
+餡糖霜	giae daon saon	1200
+餡豬肉	giae tsy nioh	1200
+枵鑊悶	shiau woh men	1200
+枵桌罩	shiau cioh tsau	1200
+鹽沙雨	ye so iu	1200
+鹽蝦蛄	ye ho ku	1200
+鹽鹽菜	ye ye tshe	1200
+鹽魚生	ye ng san	1200
+舀老酒		1200
+煠雞子		1200
+蘸紅糖		1200
+蘸醬油	tsae cian you	1200
+蘸糖霜	tsae daon saon	1200
+煮菜蔬	tsy tshe sou	1200
+吃黃昏飯		1200
+吃枯心飯		1200
+吃囉唆嘴		1200
+吃葡萄酒		1200
+吃日晝飯		1200
+燉雞子酒		1200
+哽黃昏飯	gan waon khuen vae	1200
+哽枯心飯	gan khu shin vae	1200
+哽囉唆嘴	gan lou sou sae ciu	1200
+哽日晝飯	gan ni ciou vae	1200
+㧕山粉糊	lhiou sae fen wu	1200
+剩飯碗腳	jin vae ue kian	1200
+剩飯碗腳	jin vae ue cian	1200
+攤麥油煎	thae meh you cie	1200
+餡麥油煎	giae meh you cie	1200
+捉拾飯碗	cioh zhih vae ue	1200
 吃囉唆散嘴
-哽囉唆散嘴	gan lou sou sae ciu
+哽囉唆散嘴	gan lou sou sae ciu	1200
 不候	feh yeu	2000
-不肯	feh khen
-不識	feh shih
-不像腔	feh zhian khian
-掛心	kua shin
-過訣	ku kioh
-過念	ku nie
-候意	yeu i
-嚇人	huoh nin
-滿意	mhoe i
-穩心	uen shin
-不合算	feh keh soe
-不識得	feh shih teh
-不心過	feh shin ku
+不肯	feh khen	1200
+不識	feh shih	1200
+不像腔	feh zhian khian	1200
+掛心	kua shin	1200
+過訣	ku kioh	1200
+過念	ku nie	1200
+候意	yeu i	1200
+嚇人	huoh nin	1200
+滿意	mhoe i	1200
+穩心	uen shin	1200
+不合算	feh keh soe	1200
+不識得	feh shih teh	1200
+不心過	feh shin ku	1200
 不值得	feh jih teh	1300
 不值仂	feh jih lheh	1300
-不知情	feh tsy zhin
+不知情	feh tsy zhin	1200
 不中意	feh cion i	1300
-不作數	feh tsoh sou
-好過門	hau ku men
+不作數	feh tsoh sou	1200
+好過門	hau ku men	1200
 嘸可過	m kha ku	1300
 全不識	zhioe feh shih	1300
-小鬼頭算	shiau kiu dieu soe
-小鬼小算	shiau kiu shiau soe
-小鬼小樣	shiau kiu shiau yan
-小意頭算	shiau i dieu soe
-心過願過	shin ku nioe ku
-心知念想	shin tsy nie shian
-一眼不到	ih nhiae feh tau
+小鬼頭算	shiau kiu dieu soe	1200
+小鬼小算	shiau kiu shiau soe	1200
+小鬼小樣	shiau kiu shiau yan	1200
+小意頭算	shiau i dieu soe	1200
+心過願過	shin ku nioe ku	1200
+心知念想	shin tsy nie shian	1200
+一眼不到	ih nhiae feh tau	1200
 朝	jiau
 寵	chion
-測得	tsheh teh
-測仂	tsheh lheh
+測得	tsheh teh	1200
+測仂	tsheh lheh	1200
 忖忖	tshen tshen	1300
 忖心	tshen shin	1300
-打讎	tan jiou
-打蛋	tan dae
-打料	tan liau
-得罪	teh ze
-斷定	toe din
-放心	faon shin
+打讎	tan jiou	1200
+打蛋	tan dae	1200
+打料	tan liau	1200
+得罪	teh ze	1200
+斷定	toe din	1200
+放心	faon shin	1200
 箇忖	keh tshen	1300
 功心	kon shin	1300
-估估	ku ku
+估估	ku ku	1200
 嘸膽	m tae	1300
 嘸到	m tau	1300
 嘸隊	m de	1300
@@ -12908,16 +12915,16 @@ columns:
 怕冷	pho lhan	1300
 怕死	pho sy	1300
 怕燙	pho thaon	1300
-缺德	khioh teh
-入魂	zhih wen
-入心	zhih shin
-傷心	shian shin
-嫌憎	ye tsen
-圓夢	you mon
-隻嚇	tseh huoh
-隻嚇	tsy huoh
-中意	cion i
-不相信	feh shian shin
+缺德	khioh teh	1200
+入魂	zhih wen	1200
+入心	zhih shin	1200
+傷心	shian shin	1200
+嫌憎	ye tsen	1200
+圓夢	you mon	1200
+隻嚇	tseh huoh	1200
+隻嚇	tsy huoh	1200
+中意	cion i	1200
+不相信	feh shian shin	1200
 忖心思	tshen shin sy	1300
 毛估估	mau ku ku	1300
 嘸划算	m gho soe	1300
@@ -14826,7 +14833,7 @@ columns:
 錯明	tshoh min
 亨青	han chin
 泓亮	uan lian
-橘黃
+橘黃	cioh waon
 拉黃	lha waon
 棱黃	len waon
 栗殼	lih khoh
@@ -15088,14 +15095,14 @@ columns:
 揀肥揀赤	kiae bi kiae chih
 撩空捉影	liau khon cioh in
 撩頭摘尾	liau dieu tseh mhi
-摟摗挖摗	lieu seu ueh seu
+摟摗挖摗	lieu shieu ueh shieu
 亂拋亂𢯫	loe phau loe toe
 𢳀尿𢳀屙	mo shiu mo ou
 弄四搗五	lon sy tau ngh
 爬牆挖墈	bo zhian ueh khie
 三拼四搭	sae phin sy teh
 小偷小摸	shiau thieu shiau moh
-尋摗挖摗	zhin seu ueh seu
+尋摗挖摗	zhin shieu ueh shieu
 爪手捋臂	tsau shiou loh pi
 撩天撯花字	liau thie cih ho zy
 瀉	chia
@@ -15110,7 +15117,7 @@ columns:
 對親鼻面	te chin beh mie
 狼狼戾戾	laon laon li li
 摸摸索索	moh moh soh saon
-尋尋摗摗	zhin zhin seu seu
+尋尋摗摗	zhin zhin shieu shieu
 照人學樣	ciau nin ghoh yan
 爭爭吃吃
 蹩腳伍跟睏
@@ -15208,7 +15215,7 @@ columns:
 見眼不得
 眉花眼笑	mi ho nhiae shiau
 睸睸癡癡	mi mi chiu chiu
-吞眼陋愁	then nhiae lieu zeu
+吞眼陋愁	then nhiae lieu zhieu
 眼淚拔出	nhiae li beh chioh
 眼汪擐珠擐起	nhiae uaon guae ciu guae khi
 眼汪珠珠串	nhiae uaon ciu ciu chioe
@@ -16282,8 +16289,8 @@ columns:
 還債	wae tsa	3000
 合板	yih pae	3000
 戽水	hu shiu	3000
-夾冷	kih lhan	3000
-夾生	kih san	3000
+夾冷		3000
+夾生		3000
 交炮	kau phau	3000
 接場	cih jian	3000
 接口		3000
@@ -16442,7 +16449,7 @@ columns:
 換轉張	we cioe cian
 毀牙齒	shiu ngo tsy
 筴菜蔬	kih tshe sou
-夾空肚	kih khon dou
+夾空肚
 架日晝	go ni ciou
 架中半	go cion poe
 嫁老倌
@@ -16811,7 +16818,7 @@ columns:
 徠確伊	le khoh i	380
 吃夾淡		380
 打過身	tan ku shin	380
-哽夾淡	gan kih dae	380
+哽夾淡		380
 蹋落空	deh loh khon	380
 反轉倒頭	fae cioe tau dieu	380
 撩三觀堆	liau sae kue te	380
@@ -16982,7 +16989,7 @@ columns:
 溚溚渧	teh teh ti
 打照面	tan ciau mie
 大跋𨀤	dou beh le
-大嘮嗽	dou lau seu
+大嘮嗽	dou lau shieu
 呆大講	nie dou kaon
 獃卵講	nie lhoe kaon
 單邊側	tae pie cih
@@ -17052,7 +17059,7 @@ columns:
 佐頭睏	tsou dieu khuen
 擺落迲望	pa loh kheh maon
 打結頭繫
-糊夾西召	wu kih shi jiau
+糊夾西召
 亂胡三講	loe wu sae kaon
 嘸个血搗	m keh shioh tau
 嘸个血弄	m keh shioh lon
@@ -17199,8 +17206,8 @@ columns:
 划本	gho pen
 畫家	gho ko
 荒䐬	huaon zau
-夾濫	kih lae
-夾燥	kih sau
+夾濫
+夾燥
 堅固
 結作
 緊氣
@@ -17529,7 +17536,7 @@ weh摟摟	weh lieu lieu
 慢吞吞	mae then then
 眊來完	mhau le we
 麼麼牢	ma ma lau
-密稠稠	mih dzeu dzeu
+密稠稠	mih jieu jieu
 嘸三思	m sae sy
 嘸貪頭	m thae dieu
 木馨馨	moh hen hen
@@ -17581,7 +17588,7 @@ weh摟摟	weh lieu lieu
 熱烘烘	nih huen huen
 熱乎乎	nih hu hu
 熱盆盆	nih ben ben
-熱颼颼	nih seu seu
+熱颼颼	nih shieu shieu
 熱湯湯	nih thaon thaon
 熱着着	nih jih jih
 韌鳥鳥	nin tiau tiau
@@ -17781,8 +17788,8 @@ goh弄goh塊	goh lon goh khue
 火裏火性
 家財巨萬	ko ze giu vae
 夾緊夾䂻
-夾盲醒睏	kih man shin khuen
-夾水弄叿	kih shiu lon gon
+夾盲醒睏
+夾水弄叿
 講三話四	kaon sae gho sy
 講談西川	kaon dae shi chioe
 䀹仂火眼	kih lheh hu nhiae
@@ -18873,7 +18880,7 @@ goh弄goh塊	goh lon goh khue
 一桄	ih kuan	780
 一鑊	ih woh	780
 一筴	ih kih	780
-一夾	ih kih	780
+一夾		780
 一腳		780
 一腳	ih kian	780
 一腳	ih cian	780
@@ -18972,7 +18979,7 @@ goh弄goh塊	goh lon goh khue
 鑊加鑊	woh ko waon	800
 記加記		800
 加人頭	ko nin dieu	800
-夾加夾	kih ko kih	800
+夾加夾		800
 夾加夾	kih ko kiae	800
 間加間	kiae ko kiae	800
 件加件		800
@@ -20755,3 +20762,7 @@ goh弄goh塊	goh lon goh khue
 擔兒	#
 旦兒	#
 準兒	#
+我是誰	#
+我市		0
+好滴	#
+這把	#
