@@ -1,0 +1,84 @@
+﻿# Rime schema
+# encoding: utf-8
+#
+# 定義以符號鍵換頁
+#
+
+schema:
+  schema_id: niohwae
+  name: "太平話吳拼輸入法"
+  version: "7"
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    reset: 0
+    states: [ 半角, 全角 ]
+  - name: zh_simp
+    reset: 1
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+
+translator:
+  dictionary: niohwae
+  prism: niohwae_simp
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+simplifier:
+  option_name: zh_simp
+
+punctuator:
+  import_preset: default
+  full_shape:
+    "\\" : "、"
+  half_shape:
+    "\\" : "、"
+
+key_binder:
+  bindings: 
+
+    - when:   paging
+      accept: minus
+      send:   Page_Up 
+
+    - when:   has_menu
+      accept: equal
+      send:   Page_Down
