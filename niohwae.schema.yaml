@@ -6,7 +6,7 @@
 
 schema:
   schema_id: niohwae
-  name: "太平話吳拼輸入法"
+  name: "太平話·吳語拼音"
   version: "7"
 
 switches:
@@ -46,10 +46,6 @@ engine:
     - simplifier
     - uniquifier
 
-speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba
-  delimiter: " '"
-
 translator:
   dictionary: niohwae
   prism: niohwae_simp
@@ -67,10 +63,6 @@ simplifier:
 
 punctuator:
   import_preset: default
-  full_shape:
-    "\\" : "、"
-  half_shape:
-    "\\" : "、"
 
 key_binder:
   bindings: 

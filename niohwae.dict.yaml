@@ -19,6 +19,7 @@ columns:
 ...
 
 一	ih
+併	pin
 㑚	na	5800
 僣	thi	32000
 僣	thih	32000
@@ -29,7 +30,7 @@ columns:
 瀉	chia
 薄	boh
 長	jian
-闊	khueh
+闊	khueh	20000
 密	mih
 盪	daon
 仰	nhian
@@ -99,7 +100,8 @@ columns:
 話影		1500
 有話影		800
 話娘		1500
-褱	wa	1000
+褱	wa	31000
+褱	gha	31000
 單只		3400
 單只是		3400
 不單只		3400
@@ -121,8 +123,8 @@ columns:
 倷	nhe
 溫嶺吳語微辭典		1800
 畫算	gho soe
-地裏	di lheh
-人裏	nin lheh
+地裏	di leh
+人裏	nin leh
 司務	sy vu	4277
 輓	mhae
 漺	saon
@@ -685,7 +687,7 @@ columns:
 寧	nin
 甯	nin		
 穴	yoh
-它	thou	0
+它	tha	1000
 討	thau
 討	thau
 寫	shia	
@@ -736,7 +738,7 @@ columns:
 檯	de
 矛	mieu
 糾	kiou
-糾	kiou
+糾	ciou
 母	mh
 母	mhieu
 幼	iou
@@ -922,7 +924,7 @@ columns:
 件	gie
 件	jie
 任	zhin	
-任	nin	0	
+任	nin	
 傷	shian
 傷	shian
 價	ko
@@ -1191,6 +1193,7 @@ columns:
 報	pau
 報	pau
 卻	khih
+卻	chih
 劫	kih
 劫	cih
 芽	ngo
@@ -1267,7 +1270,7 @@ columns:
 縣	yoe	
 縣	yoe	
 裏	lhi	99%
-裏	lheh	1%
+裏	leh	1%
 獃	nie
 呆	nie
 園	yoe
@@ -1420,7 +1423,7 @@ columns:
 應	in
 應	in
 冷	lhan
-這	cih	1800
+這	cih	3800
 這	cioh	1800
 這	cia	1800
 序	zhiu
@@ -1534,9 +1537,7 @@ columns:
 武	vu
 青	chin
 責	tseh	
-責	tseh	
-責	tsa	
-責	tsa	
+責	tseh		
 現	ye
 現	ye
 表	piau
@@ -1692,6 +1693,7 @@ columns:
 旺	yaon
 旺	waon
 具	giu
+具	jiu
 果	ku
 菓	ku	
 味	mi
@@ -1832,8 +1834,7 @@ columns:
 肥	bi
 肥	vi
 服	voh
-脅	yih
-脅	yih
+脅	shih
 周	ciou
 週	ciou
 昏	huen
@@ -2512,6 +2513,7 @@ columns:
 惱	nhau
 恨	ghen
 舉	kiu
+舉	ciu
 覺	koh	96%
 覺	kau	4%
 睏覺	khuen kau	1900
@@ -2695,8 +2697,8 @@ columns:
 橋	jiau
 桃	dau
 格	keh	1800
-格裏門		680
-格裏向		680
+箇裏門	keh lhi men	6680
+箇裏向	keh lhi shian	6680
 校	ghau	
 校	kau	
 覈	gheh
@@ -2989,7 +2991,7 @@ columns:
 漲	cian
 燙	thaon
 燙	thaon
-湧	ion
+涌	ion
 湧	ion
 悟	ngu
 悄	chiau
@@ -6553,6 +6555,7 @@ columns:
 饉	gin
 饉	jin
 妗	gin
+妗	jin
 覲	gin
 覲	jin
 噤	gin
@@ -6976,7 +6979,7 @@ columns:
 麒	gi
 筻	kan
 戇	ciaon
-戇	ciaon
+戇	gon
 槹	kau
 槔	kau
 虔	gie
@@ -10360,8 +10363,7 @@ columns:
 絃	ye
 怹	then
 弶	gian
-耑	toe
-專	toe		
+耑	toe		
 夊	se
 綏	se	
 皃	mau
@@ -10849,7 +10851,8 @@ columns:
 山腳	sae cian
 山墈	sae khie
 山坑	sae khan
-山裏	sae lhi
+山裏	sae lhi	1800
+山裏	sae leh	1800
 山壠	sae lhon
 山路	sae lou
 山上	sae zaon
@@ -11036,25 +11039,25 @@ columns:
 一界	ih ka
 一界	ih ka
 早界	tsau ka	15773
-天亮日裏	thie nian nih lheh	2000
-天亮夜裏	thie nian ya lheh	2000
-天亮夜裏	thie nian ya lhe	2000
-今日日裏	ci nin nih lheh	2000
-今日夜裏	ci nin ya lheh	2000
-今日夜裏	ci nin ya lhe	2000
-今日日裏	ki nin nih lheh	2000
-今日夜裏	ki nin ya lheh	2000
-今日夜裏	ki nin ya lhe	2000
+天亮日裏	thie nian nih leh	2000
+天亮夜裏	thie nian ya leh	2000
+天亮夜裏	thie nian ya le	2000
+今日日裏	ci nin nih leh	2000
+今日夜裏	ci nin ya leh	2000
+今日夜裏	ci nin ya le	2000
+今日日裏	ki nin nih leh	2000
+今日夜裏	ki nin ya leh	2000
+今日夜裏	ki nin ya le	2000
 天亮晏界	thie nian ae ka	2000
 天亮早界	thie nian tsau ka	2000
 今日晏界	ci nin ae ka	2000
 今日早界	ci nin tsau ka	2000
 今日晏界	ki nin ae ka	2000
 今日早界	ki nin tsau ka	2000
-昨日夜裏	zoh nin ya lheh	2000
-昨日夜裏	zoh nin ya lhe	2000
-一長界	ih jian ka
-整長界	cin jian ka
+昨日夜裏	zoh nin ya leh	2000
+昨日夜裏	zoh nin ya le	2000
+一長界	ih jian ka	2000
+整長界	cin jian ka	2000
 一刻	ih khen
 扣瑲		18678
 扣起頭		18678
@@ -11866,8 +11869,8 @@ columns:
 裏間	lhi kiae	1800
 上間	zaon kiae	1800
 實里	zhih lhi	1800
-外間		1800
-小間		1800
+外間	nga kiae	1800
+小間	shiau kiae	1800
 吃飯間		800
 廚房間	jiu vaon kiae	800
 隔壁間	keh pih kiae	800
@@ -13328,7 +13331,7 @@ columns:
 做命	tsou min
 打划泅	tan gho jiou
 吊尾	tiau mhi
-佝背	shieu pe
+佝背		1800
 鼓肚	ku dou
 光頂	kuaon tin
 塌肩
@@ -13388,48 +13391,49 @@ columns:
 豬卵𣝗	tsy lhoe wen
 胐臀屁䐄	khueh den phi ae
 躸身骨頭
-背脊心	pe cih shin
-後背心	ieu peh shin
-後背心	ieu pe shin
-背脊心肉	pe cih shin nion
-空肚	khon dou
-膨肚	ban dou
-停肚	din tou
-淋肚	lin dou
-濾肚	li dou
-實肚	zhih dou
-實肚	zhih dou
-肚	dou
-長臍	jian zhi
-肚角	dou koh
-肚裏	dou lhi
-肚棚	dou ban
-肚棚	dou ban
-肚臍	dou zhi
-肚臍	dou zhiu
-肚頭	dou dieu
-肚頭	dou dieu
-圓臍	yoe zhi
-肚臍孔	dou zhi khon
-肚臍孔	dou zhiu khon
-小肚頭	shiau dou dieu
-嘸膧	m jiaon
-帶膧	ta jiaon
-有膧	iou jiaon
-棱骨	len kueh
-矠骨	zeh kueh
-骨格	kueh kan
-吸力頷	shih lih giae
-飯橾骨	vae chiau kueh
-腳筒骨
-口頷骨
-肋棚骨	leh ban kueh
-面門骨	mie men kueh
-攀肩骨
-翼膀骨	yih paon kueh
-胐臀屁膧	khueh den phi jiaon
-死人骨頭	si nin kueh dieu
-尾巴膧骨	mhi po jiaon kueh
+背脊心	pe cih shin	2000
+後背心	ieu peh shin	2000
+後背心	ieu pe shin	2000
+背脊心肉	pe cih shin nion	2000
+空肚	khon dou	2000
+膨肚	ban dou	2000
+停肚	din tou	2000
+淋肚	lin dou	2000
+濾肚	li dou	2000
+實肚	zhih dou	2000
+實肚	zhih dou	2000
+肚	dou	2000
+長臍	jian zhi	2000
+肚角	dou koh	2000
+肚裏	dou lhi	2000
+肚裏	dou leh	2000
+肚棚	dou ban	2000
+肚棚	dou ban	2000
+肚臍	dou zhi	2000
+肚臍	dou zhiu	2000
+肚頭	dou dieu	2000
+肚頭	dou dieu	2000
+圓臍	yoe zhi	2000
+肚臍孔	dou zhi khon	2000
+肚臍孔	dou zhiu khon	2000
+小肚頭	shiau dou dieu	2000
+嘸膧	m jiaon	2000
+帶膧	ta jiaon	2000
+有膧	iou jiaon	2000
+棱骨	len kueh	2000
+矠骨	zeh kueh	2000
+骨格	kueh kan	2000
+吸力頷	shih lih giae	2000
+飯橾骨	vae chiau kueh	2000
+腳筒骨		2000
+口頷骨		2000
+肋棚骨	leh ban kueh	2000
+面門骨	mie men kueh	2000
+攀肩骨		2000
+翼膀骨	yih paon kueh	2000
+胐臀屁膧	khueh den phi jiaon	2000
+死人骨頭	si nin kueh dieu	2000
+尾巴膧骨	mhi po jiaon kueh	2000
 摝	lhoh
 拗	au
 捰	lou
@@ -13582,22 +13586,22 @@ columns:
 腳板
 腳背
 腳地
-腳肚
-腳梗
+腳肚		1800
+腳梗		1800
 腳骨		4000
-腳力
-腳莓
-腳手
-腳蹄
-腳頭
-腳腕
-腳峽
-腳芽
-腳眼
-腳腰
-腳印
-腳爪
-腳爪
+腳力		1800
+腳莓		1800
+腳手		1800
+腳蹄		1800
+腳頭		1800
+腳腕		1800
+腳峽		1800
+腳芽		1800
+腳眼		1800
+腳腰		1800
+腳印		1800
+腳爪		1800
+腳爪		1800
 蹄爬	di bo
 蟹腳	ha kian
 蟳腳	yin kian
@@ -13605,34 +13609,34 @@ columns:
 蟹腳	ha cian
 蟳腳	yin cian
 豬腳	tsy cih
-矮腳股
+矮腳股		1800
 獨隻腳	doh cih kian
 獨隻腳	doh cih cian
 扶梯檔	wu thi taon
-雞腳爪
-腳踝㬹
-腳髁頭
-腳板頭
-腳背頭
-腳底心
-腳底心
-腳肚毛
-腳肚子
-腳槓頭
-腳後跟
-腳芽兒
-腳腰環
-上腳肚
-上腳肚
-下腳肚
-下腳肚
-腳節亞門
-腳末節頭
-腳末頭甲
-腳牛頭頸
-瘋腳爛手
-豁腳蕩手
-豁手蕩腳
+雞腳爪		1800
+腳踝㬹		1800
+腳髁頭		1800
+腳板頭		1800
+腳背頭		1800
+腳底心		1800
+腳底心		1800
+腳肚毛		1800
+腳肚子		1800
+腳槓頭		1800
+腳後跟		1800
+腳芽兒		1800
+腳腰環		1800
+上腳肚		1800
+上腳肚		1800
+下腳肚		1800
+下腳肚		1800
+腳節亞門		1800
+腳末節頭		1800
+腳末頭甲		1800
+腳牛頭頸		1800
+瘋腳爛手		1800
+豁腳蕩手		1800
+豁手蕩腳		1800
 玍	nhan
 做勁
 用花把道	yon ho po dau
@@ -13719,14 +13723,14 @@ columns:
 蟹膏	ha kau
 魚肚	ng tou
 魚膠	ng kau
-豬肚	tsy tou
+豬肚	tsy tou	2000
 豬腰	tsy iau
-肚裏才	dou lhi ze
-肚裏貨	dou lhi hu
-肚裏心	dou lhi shin
-雞子白	ki tsy ban
-雞子白	ci tsy ban
-雞子黃
+肚裏才	dou lhi ze	2000
+肚裏貨	dou lhi hu	2000
+肚裏心	dou lhi shin	2000
+雞子白	ki tsy ban	2000
+雞子白	ci tsy ban	2000
+雞子黃		2000
 豬大臟	tsy dou zaon
 豬肚腸	tsy dou jian
 豬肺頭	tsy fi dieu
@@ -14157,58 +14161,57 @@ columns:
 孫	sen
 爺	ya
 姪	jih
-搗子	tau tsy
-阿爸	eh pa
-阿弟	eh di
-阿爹	eh tia
-阿哥	eh ko
-阿公	eh kon
-阿舅	eh giou
-阿舅	eh jiou
-阿叔	eh shion
-阿爺	eh ya
-表兄	piau shion
-伯公	peh kon
-大伯	dou pan
-大大	deh da
-大兒	dou n
-大哥	da ko
-爹爹	tih tia
-姑丈	ku jian
-家爺
-舅公
-娘舅
-叔公	shioh kon
-太公	tha kon
-外公	nga kon
-晚爺	mhae ya
-小兒	shiau n
-兄弟	shion di
-爺爺	yih ya
-爺爺	ya ya
-姨公	yi kon
-義子	ni tsy
-丈公	jian kon
-丈人	jian nin
-姊丈	tsy jian
-表兄弟	piau shion di
-獨子兒	doh tsy n
-刮肚兒	kueh dou n
-老娘舅
-老異爺	lhau yi ya
-老丈人	lhau jian nin
-兩兄弟	lhian shion di
-囡兒孫	nhae n sen
-囡兒婿	nhae n shi
-親生兒	chin san n
-親兄弟	chin shion di
-娘姨丈	nian yi jian
-太太公	tha tha kon
-外公太	nga kon tha
-兄弟隊	shion di de
-姪女婿	jih nhiu shi
-叔伯兄弟	shioh peh shion di
-妗	gin
+搗子	tau tsy	2300
+阿爸	eh pa	2300
+阿弟	eh di	2300
+阿爹	eh tia	2300
+阿哥	eh ko	2300
+阿公	eh kon	2300
+阿舅	eh giou	2300
+阿舅	eh jiou	2300
+阿叔	eh shion	2300
+阿爺	eh ya	2300
+表兄	piau shion	2300
+伯公	peh kon	2300
+大伯	dou pan	2300
+大大	deh da	2300
+大兒	dou n	2300
+大哥	da ko	2300
+爹爹	tih tia	2300
+姑丈	ku jian	2300
+家爺		2300
+舅公		2300
+娘舅		2300
+叔公	shioh kon	2300
+太公	tha kon	2300
+外公	nga kon	2300
+晚爺	mhae ya	2300
+小兒	shiau n	2300
+兄弟	shion di	2300
+爺爺	yih ya	2300
+爺爺	ya ya	2300
+姨公	yi kon	2300
+義子	ni tsy	2300
+丈公	jian kon	2300
+丈人	jian nin	2300
+姊丈	tsy jian	2300
+表兄弟	piau shion di	2300
+獨子兒	doh tsy n	2300
+刮肚兒	kueh dou n	2300
+老娘舅		2300
+老異爺	lhau yi ya	2300
+老丈人	lhau jian nin	2300
+兩兄弟	lhian shion di	2300
+囡兒孫	nhae n sen	2300
+囡兒婿	nhae n shi	2300
+親生兒	chin san n	2300
+親兄弟	chin shion di	2300
+娘姨丈	nian yi jian	2300
+太太公	tha tha kon	2300
+外公太	nga kon tha	2300
+兄弟隊	shion di de	2300
+姪女婿	jih nhiu shi	2300
+叔伯兄弟	shioh peh shion di	2300
 妹	me
 囡	nhae
 婆	bu
@@ -14529,6 +14532,7 @@ columns:
 蕩韆鞦	daon chie chiou
 掂三糊	tie sae wu
 掉玩具	dzau wae giu
+掉玩具	dzau wae jiu
 放紙鷂	faon tsy yau
 𧼱大蟲	bih da jion
 合積木	yih cih moh
@@ -15725,7 +15729,7 @@ columns:
 嘸可過門	m kha ku men	1581
 嘸可落臺	m kha loh de	1581
 不肯趒出	feh khen diau chioh	1581
-狹	gheh
+狹	gheh	20000
 #	den
 #	geu
 纏	jie
@@ -16544,7 +16548,7 @@ columns:
 賣衣裳	ma i zaon
 沒大水	meh dou shiu
 煝香菸	me shian ie
-摸邊裏	moh pie lheh	1800
+摸邊裏	moh pie leh	1800
 摸邊裏	moh pie lhi	1800
 摸後髋	moh ieu khuen	1474
 摸青盲	moh chin man
@@ -16827,9 +16831,10 @@ columns:
 跟胐臀	ken khueh den
 跟後髋	ken ieu khuen
 講清爽	kaon chin saon
-摸肚裏	moh dou lhi
+摸肚裏	moh dou lhi	994
+摸肚裏	moh dou leh	994
 摸裏邊	moh lhi pie	994
-摸裏門		994
+摸裏門	moh lhi men	994
 摸裏向	moh lhi shian	994
 摸外邊	moh nie pie	1348
 摸外向	moh nga shian	1348
@@ -18465,23 +18470,23 @@ goh弄goh塊	goh lon goh khue
 爾許㙮	nh he tae	1000
 爾倷㙮	nh nhe tae	1000
 爾伲㙮		1000
-我倈㙮		1000
+我倈㙮	ngho le tae	1000
 我等㙮		1800
 我能㙮		1800
 我侇㙮		1800
 我許㙮	ngho he tae	1000
-我等屋裏		800
-我能屋裏		800
+我等屋裏	ngho ten uoh lhi	800
+我能屋裏	ngho nen uoh lhi	800
 我許屋裏	ngho he uoh lhi	800
-我侇屋裏		800
-佢倈屋裏		800
-佢侇屋裏		800
+我侇屋裏	ngho yi uoh lhi	800
+佢倈屋裏	gie le uoh lhi	800
+佢侇屋裏	gie yi uoh lhi	800
 佢許屋裏	gie he uoh lhi	800
-爾屋裏		800
-爾侇屋裏		800
+爾屋裏	nh uoh lhi	800
+爾侇屋裏	nh yi uoh lhi	800
 爾許屋裏	nh he uoh lhi	800
-爾倷屋裏		800
-爾伲屋裏		800
+爾倷屋裏	nh ne uoh lhi	800
+爾伲屋裏	nh ni uoh lhi	800
 在檞		2000
 我徠檞		2000
 爾徠檞		2000
@@ -18673,26 +18678,35 @@ goh弄goh塊	goh lon goh khue
 各許	koh he
 檞㙮	ka tae	34029
 褱㙮	wa tae	34029
+褱㙮	gha tae	34029
 褱底	wa ti	34029
+褱底	gha ti	34029
 箇市	keh zy
 箇頭	keh dieu
 箇竻	keh leh
 檞柢	ka ti
 箇柢	keh ti
 檞个	ka keh	34029
-褱个		34029
 檞个	ka kie	34029
 檞次
+褱次	gha tshy	34029
+褱次	wa tshy	34029
+褱趟		34029
 檞許	ka he	34029
 檞趟
 檞竻	ka leh	34029
 檞門	ka men	34029
-檞面	ka mie
+檞面	ka mie	22800
 檞市	ka zy
-檞頭	ka dieu
-褱个	wa kie	2800
-褱个	wa keh	2800
-褱許	wa he	2800
+檞頭	ka dieu	22800
+褱个	wa kie	22800
+褱个	wa keh	22800
+褱个	gha kie	22800
+褱个	gha keh	22800
+褱許	wa he	22800
+褱許	gha he	22800
+褱竻	wa leh	22800
+褱竻	gha leh	22800
 許某	he mh
 旁㙮	baon tae
 旁柢	baon ti
@@ -18743,10 +18757,10 @@ goh弄goh塊	goh lon goh khue
 中央心	cion nhian shin
 當當中中	taon taon cion cion
 爾㙮	nh tae	1900
-褱方	wa faon	1900
-褱門	wa men	1900
-褱面	wa mie	1900
-褱頭	wa dieu	1900
+褱方		1900
+褱門		1900
+褱面		1900
+褱頭		1900
 佢㙮	gie tae	1900
 我㙮	ngho tae	1900
 伊个	i keh	900
@@ -18784,15 +18798,16 @@ goh弄goh塊	goh lon goh khue
 各許宕地	koh he daon di	900
 邊沿	pie ye	900
 車裏	tsho lhi	900
+車裏	tsho leh	900
 地地	di di	900
 肚裏	dou lhi	900
-肚裏	dou lheh	900
+肚裏	dou leh	900
 對頭	te dieu	1900
 格裏	kan lhi	900
-格裏	kan lheh	900
+格裏	kan leh	900
 各省	koh san
 街裏	ka lhi	900
-街裏	ka lheh	900
+街裏	ka leh	900
 盡頭	zhin dieu
 路柢	lou di	900
 路上	lou zaon
@@ -18855,10 +18870,10 @@ goh弄goh塊	goh lon goh khue
 頭圈四旋	dieu khioe sy zhioe	2800
 晚界		27667
 窗門		2800
-日裏	nih lheh	2800
-夜裏	ya lheh	2800
-夜裏	ya lhe	2800
-邊裏	pie lheh	2800
+日裏	nih leh	2800
+夜裏	ya leh	2800
+夜裏	ya le	2800
+邊裏	pie leh	2800
 邊裏	pie lhi	2800
 㐲	da
 鈿	die
@@ -19175,800 +19190,3 @@ goh弄goh塊	goh lon goh khue
 一退屋	ih the uoh
 三个頭	sae kie dieu	800
 兩个頭	lhian kie dieu	800
-
-
-
-##########區分###多音字個####讀音###########
-主要	ciu iau
-要害	iau ghe
-要點	iau tie
-必要	pih iau
-提要	di iau
-只要	tsy iau
-緊要	kin iau
-緊要	cin iau
-要政	iau cin
-要證	iau cin
-政要	cin iau
-要素	iau sou
-要約	iau ih
-要束	iau shioh
-要道	iau dau
-要地	iau di
-要衝	iau chion
-要職	iau cih
-要旨	iau tsy
-要強	iau jian
-要件	iau jie
-要強	iau gian	
-要件	iau gie
-要訣	iau kioh
-要訣	iau cioh
-
-長長	cian jian
-波長	pu jian
-
-臘月	leh nioh
-臘肉	leh nioh
-
-想个	shian keh
-
-指點	tsy tie
-支點	tsy tie
-只點	tsy tie
-
-還是	wa zy
-還有	wa iou
-還可	wa kho	0
-還好	wa hau
-還可以	wa kho i
-還以	wa i
-還要	wa ih
-還要	wa iau
-還想	wa shian
-還向	wa shian	0
-還摸	wa moh
-還小	wa shiau
-還細	wa shi
-還少	wa shiau
-還笑	wa shiau
-返還	fae wae
-還鄉	wae shian
-
-寧波	nin pu
-蘇寧	sou nin
-安寧	ae nin
-安寧	ie nin
-列寧	lih nin
-寧靜	nin zhin
-寧夏	nin gho
-遼寧	liau nin
-寧馨兒	nen shin n
-寧馨	nen shin
-
-不許	feh hiu
-不許	feh shiu
-許願	hiu nioe
-許願	shiu nioe
-期許	ji hiu
-允許	ion hiu
-期許	ji shiu
-允許	ion shiu
-許多	hiu tou
-許配	hiu phe
-許可	hiu kho
-許可證	hiu kho cin
-許多	shiu tou
-許配	shiu phe
-許可	shiu kho
-許可證	shiu kho cin
-介許	ka shiu	3000
-介許多	ka shiu tou	3000
-介許大	ka shiu dou	3000
-介許小	ka shiu shiau	3000
-介許少	ka shiu shiau	3000
-介許細	ka shiu shi	3000
-
-而下	n o
-
-數字	sou zy
-數詞	sou zy
-數碼	sou mho
-數目	sou moh
-數據	sou kiu
-數額	sou ngeh
-數量	sou lian
-數學	sou ghoh
-數理	sou lhi
-代數	de sou
-少數	shiau sou
-小數	shiau sou
-理數	lhi sou
-禮數	lhi sou
-年數	nie sou
-路數	lou sou
-衆數	cion sou
-氣數	chi sou
-氣數	khi sou
-票數	phiau sou
-人數	nin sou
-實數	zhih sou
-作數	tsoh sou
-字數	zy sou
-時數	zy sou
-指數	tsy sou
-整數	cin sou
-歲數	shiu sou
-虛數	shiu sou
-定數	din sou
-約數	ih sou
-倍數	be sou
-基數	ci sou
-計數	ci sou
-奇數	ci sou
-基數	ki sou
-計數	ki sou
-奇數	ki sou
-充數	chion sou
-除數	jiu sou
-盡數	cin sou
-正數	cin sou
-噸數	ten sou
-多數	tou sou
-序數	zhiu sou
-因數	in sou
-形數	yin sou
-等數	ten sou
-對數	te sou
-函數	ghae sou
-負數	vu sou
-單數	tae sou
-雙數	shiaon sou
-底數	ti sou
-真數	cin sou
-變數	pie sou
-比數	pi sou
-分數	fen sou
-个數	keh sou
-位數	yu sou
-爲數	yu sou
-餘數	yu sou
-維數	yu sou
-數據庫	sou kiu khu
-數字化	sou zy hua
-數量級	sou lian cih
-數量積	sou lian cih
-數學方法	sou ghoh faon feh
-數學分析	sou ghoh fen shih
-數字電視	sou zy die zy
-數碼相機	sou mho shian ci
-數碼相機	sou mho shian ki
-數理統計	sou lhi thon ci
-數理統計	sou lhi thon ki
-
-方便	faon bie
-隨便	zhiu bie
-方便麪	faon bie mie
-便服	bie voh
-便士	bie zy
-便鞋	bie gha
-便於	bie yu
-便路	bie lou
-便利	bie li
-便利店	bie li tie
-小便	shiau bie
-大便	da bie
-便器	bie chi
-便器	bie khi
-坐便器	zo bie chi
-坐便器	zo bie khi
-便衣	bie i
-
-流行	liou ghan
-私行	sy ghan
-肆行	sy ghan
-施行	sy ghan
-推行	the ghan
-履行	liu ghan
-旅行社	lhiu ghan zo
-旅行	lhiu ghan
-
-執行	cih ghan
-試行	sy ghan
-實行	zhih ghan
-前行	zhie ghan
-可行	kho ghan
-疾行	zhih ghan
-行駛	ghan sa
-行賞	ghan saon
-行使	ghan sy
-行星	ghan shin
-行商	ghan shian
-行省	ghan san
-行銷	ghan shiau
-行屍	ghan sy
-行速	ghan soh
-行書	ghan shiu
-行兇	ghan shion
-行兇	ghan hion
-行走	ghan cieu
-行動	ghan don
-行爲	ghan yu
-行囊	ghan naon
-通行	thon ghan
-人行道	nin ghan dau
-車行道	tsho ghan dau
-跨行	khua ghaon
-銀行	nin ghaon
-投行	dieu ghaon
-一行	ih ghaon
-幾行	ci ghaon
-幾行	ki ghaon
-行數	ghaon sou
-詩行	sy ghaon
-兩行	lhian ghaon
-頭行	dieu ghaon
-三行	sae ghaon
-四行	sy ghaon
-五行	ngh ghaon
-六行	loh ghaon
-七行	chih ghaon
-行道	ghan dau
-八行	peh ghaon
-九行	ciou ghaon
-十行	zhih ghaon
-投資銀行	dieu tsy nin ghaon
-行當	ghaon taon
-行行	ghaon ghaon
-進行	cin ghan
-整行	cin ghaon
-行道樹	ghan dau zhiu
-景行	#
-
-音樂	in ngoh
-電子音樂	die tsy in ngoh
-黑人音樂	heh nin in ngoh
-輕音樂	chin in ngoh
-古典音樂	ku tie in ngoh
-搖滾樂	yau kuen ngoh
-重金屬樂	jion cin zhion ngoh
-聲樂	shin ngoh
-聖樂	shin ngoh
-樂器	ngoh chi
-樂理	ngoh lhi
-樂隊	ngoh de
-樂曲	ngoh chioh
-樂經	ngoh cin
-樂趣	loh chiu
-快樂	khua loh
-可樂	kho loh
-樂事	loh zy
-可口可樂	kho khieu kho loh
-可口可樂	kho chieu kho loh
-百事可樂	peh zy khp loh
-樂園	loh yoe
-樂意	loh i
-迪士尼樂園	dih zy ni loh yoe
-樂天	loh thie
-樂土	loh thou
-樂觀	loh kue
-歡樂	hue loh
-娛樂	niu loh
-娛樂場	niu loh jian
-享樂	shian loh
-
-自在	zy ze
-不自在	feh zy ze
-
-屋基	uoh ci
-屋基	uoh ki
-
-去除	khiu jiu
-去勢	khiu shi
-去皮	khiu bi
-減去	kiae khiu
-除去	jiu khiu
-
-推斷	the toe
-判斷	phoe toe
-斷定	toe din
-斷案	toe ie
-斷案	toe ae
-斷層	doe zen
-不斷	feh doe
-斷路	doe lou
-斷路器	doe lou chi
-斷面	doe mie
-中斷	cion doe
-斷奶	doe nha
-熔斷	yon doe
-
-學說	ghoh shioh
-假說	ko shioh
-說唱	shioh tshaon
-說古	shioh ku
-說明	shioh min
-說明書	shioh min shiu
-訴說	sou shioh
-傳說	jioe shioh
-說說	shioh shioh	
-遊說	you shiu
-說客	shiu kheh
-不亦說乎	feh yih yoh hu	
-
-先去	shie khie
-不去	feh khie
-去不去	khie feh khie
-要去	ih khie
-想去	shian khie
-
-審校	shin kau
-校對	kau te
-校閱	kau yoh
-校訂	kau tin
-駕校	ko ghau
-校外	ghau nga
-校徽	ghau hiu
-校徽	ghau hue
-校服	ghau voh
-校園	ghau yoe
-校車	ghau tsho
-
-長度	jian dou
-長途	jian dou
-
-#########调整北方话####詞頻搭###消除北方話用詞#########
-想看		0
-看不起	#
-不說	#
-叫街	#
-幹		0
-幹我	#
-幹你	#
-幹他	#
-幹她	#
-蚊子	#
-籌子	#
-舅子	#
-胄子	#
-綢子	#
-請您	#
-請你	#
-鄉親	#
-鄉親們	#
-侍兒	#
-字兒	#
-詞兒	#
-事兒	#
-法兒	#
-貳		600
-不貳	#
-猴子	#
-瘊子	#
-睡過	#
-看見	#
-去幹	#
-肚子	#
-二下	#
-又是	#
-趕緊	#
-這屆	#
-好些	#
-餵給	#
-爲啥	#
-傻子	#
-为啥	#
-啥子	#
-丫頭	#
-這是	#
-裝好	#
-不行	#
-眼睛	#
-少不得	#
-多高	#
-壹个人	#
-瓤兒	#
-掌不起	#
-還敢	#
-不睡	#
-小槌	#
-有你	#
-饃饃	#
-剛剛在	#
-剛剛是	#
-剛剛有	#
-要你	#
-困覺	#
-困死	#
-幹壞事	#
-壞事		0
-相見		0
-多條		0
-一住	#
-而下來	#
-想見	#
-想幹	#
-回來	#
-都得	#
-請來	#
-去想	#
-開向	#
-去鄉	#
-看向	#
-看相	#
-多得	#
-輸給	#
-不看	#
-尿急		0
-數給	#
-虛給	#
-躲得	#
-還得	#
-壞得	#
-去住	#
-我們	#
-妖物	#
-給他	#
-羅唆	#	511
-看起來	#
-歇着	#
-削着	#
-失着	#
-部分	#
-老蔫	#
-女婿	#
-越說	#
-巒嶂		0
-乾旦		0
-少不得	#
-要把	#
-爾來	#
-張華	
-閒兒	#
-萬多	#
-掉出來	#
-爾時	#
-好忙	#
-派賴	#
-帳號	#
-二話	#
-會來	#
-不要	#
-不要將	#
-髒死	#
-个个	#
-笑得	#
-燒得	#
-小德		0
-少得	#
-小得	#
-銷得	#
-好說	#
-稍可	#
-甲士		0
-渠們	#
-剛剛	#
-剛好	#
-剛到	#
-我剛	#
-繫个	#
-燒點	#
-且要	#
-有些兒	#
-你真	#
-看些	#
-砍些	#
-刊些	#
-不應		20
-所有格		0
-共效	#
-下午	#
-上午	#
-中午	#
-早上	#
-晚上	#
-相象	#
-好象	#
-好象是	#
-獨个兒	#
-靈寢	#
-靈櫬	#
-令親		0
-這位	#
-這與	#
-這一	#
-亮底兒	#
-這要	#
-抓人	#
-真是	#
-找人	#
-看書	#
-看戲	#
-爪兒	#
-罩兒	#
-快點兒	#
-這也	#
-這次	#
-這臺	#
-開玩笑	#
-大耗子 	#
-耗子	#
-說出來	#
-人說	#
-看见	#
-人家說	#
-我說	#
-玩笑	#
-常向	#
-這車	#
-這些	#
-這个	#
-給个	#
-是給	#
-差點	#
-白澳	#
-零壹	#
-八伯	#
-鼻子	#
-少加	#
-坊子	#
-龜龜	#
-睡着	#
-沒過	#
-我該	#
-掉落	#
-說啥	#
-伯伯	#
-學校	#
-房子	#
-車子	#
-五下	#
-一下	#
-這起	#
-兩下	#
-三下	#
-四下	#
-六下	#
-那兒	#
-哪兒	#
-這兒	#
-七下	#
-這行	#
-八下	#
-鄉心	#
-鄉信	#
-九下	#
-這格	#
-十下	#
-句子	#
-鬼子	#
-駒子	#
-鋸子	#
-季子	#
-不第	#
-不弟	#
-不題	#
-龜子	#
-真臘	#
-倍常	#
-這隻	#
-這給	#
-接給	#
-這幾	#
-這既	#
-舉子	#
-鉤勒	#
-沒事	#
-沒詞	#
-我倆	#
-脫產	#
-歸子	#
-真臘	#
-進些	#
-盡些	#
-叉子	#
-想得	#
-岔子	#
-汊子	#
-發給	#
-不給	#
-安足	#
-說得	#
-搭腔	#
-答腔	#
-瓦肆	#
-馬爾	#
-嗎兒 	#
-咋	#
-不搭腔	#
-不答腔	#
-不得勁	#
-看牢	#
-不得空	#
-杈子	#
-說過	#
-乘車	#
-乘船	#
-乘飛機	#
-嬤嬤	#
-不庭	#
-友生	#
-因你	#
-因您	#
-不亭	#
-弗庭	#
-想說	#
-係一種	# 
-老伯	#
-都說	#
-說法	#
-說不	#
-好去	#
-寶兒	#
-寫些	#
-些些	#
-這時	#
-這事	#
-給事	#
-接茬	#
-急茬	#
-說着	#
-鴿市	#
-地兒	#
-底兒	#
-佔地兒	#
-好地	#
-好睇	#
-包兒	#
-保兒	#
-鴇兒	#
-我敢	#
-說了 	#
-摔了	#
-摔倒	#
-說到	#
-說的	#
-說錯	#
-說點	#
-說岔	#
-說來	#
-遺骸	#
-答兒	#
-這股	#
-這歌	#
-這裏	#
-這類	#
-這兩	#
-給了	#
-這輛	#
-這倆	#
-這籃	#
-這輪	#
-接了	#
-結了	#
-給臉	#
-這連	#
-這聯	#
-看來	#
-看了	#
-欠了	#
-簽了	#
-牽了	#
-遷了	#
-隔法	#
-港九	#
-槓龜	#
-燃臍	#
-媽兒	#
-給予		0
-給與		0
-不錯		10
-德爾		0
-你愛	#
-二漢	#
-扯淡	#
-扯蛋	#
-扯談	#
-畸人	#
-雞人	#
-濟人	#
-棘人	#
-真影	#
-振纓	#
-枝兒	#
-子兒	#
-射到	#
-冰兒	#
-病兒	#
-顰兒	#
-廁所	#
-昨兒	#
-泥酒	#
-艾酒	#
-艤舟	#
-多些	#
-一系	#
-神觀	#
-城固	#
-進益	#
-晉謁	#
-津要	#
-進謁	#
-飢溺	#
-襟要	#
-京邑	#
-征衣	#
-制義	#
-制藝	#
-繩子	#
-誠徵	#
-靚仔	#
-城子	#
-甸子	#
-儘子	#
-神紙	#
-慎子	#
-身子	#
-嬸子	#
-心子	#
-芯子	#
-信子	#
-性子	#
-星子	#
-幸子	#
-杏子	#
-行子	#
-迅指	#
-情致	#
-情知	#
-情資	#
-加些	#
-個裏	#
-門兒	#
-大奇	#
-馱橋	#
-旗籍	#
-滅紀	#
-箇市	#
-清車	#
-寢車	#
-乘火車	#
-他們	#
-你們	#
-你問	#
-您們	#
-他懣	#
-這樣	#
-大劍	#
-大建	#
-大奸	#
-話兒	#
-畫兒	#
-花兒	#
-玩兒	#
-碗兒	#
-萬兒	#
-彎兒	#
-二劃	#
-擔兒	#
-旦兒	#
-準兒	#
-我是誰	#
-我市		0
-好滴	#
-這把	#
-个中	#
-箇中		1800
-箇中滋味
-箇中翹楚
-箇中好手
-箇中高手
-箇中原因
-箇中原由
-个中滋味	#
-个中翹楚	#
-這句	#
-這季	#
-照片子	#
-幫兒	#
-皮兒	#

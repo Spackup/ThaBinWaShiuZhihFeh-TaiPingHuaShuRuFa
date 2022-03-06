@@ -803,7 +803,7 @@ columns:
 宿友		618
 宿在		4237
 宿地		672
-宿屋裏		786
+宿屋裏	shioh uoh lhi	786
 宿居		473
 宿屋		493
 宿店		570
@@ -813,8 +813,8 @@ columns:
 宿習慣		453
 宿外門		453
 宿外向		453
-宿裏門		453
-宿裏向		453
+宿裏門	shioh lhi men	453
+宿裏向	shioh lhi shian	453
 宿賓館		453
 宿酒店		453
 宿戶		1290
@@ -876,8 +876,8 @@ columns:
 自宿		880
 自宿型		508
 衣食宿行		795
-裏門宿		567
-裏向宿		567
+裏門宿	lhi men shioh	567
+裏向宿	lhi shian shioh	567
 都宿		576
 都宿勒		576
 長宿	jian shioh	568
@@ -1679,48 +1679,51 @@ columns:
 都撯		759
 撯牢		800
 
-#########屋##########
-嘸徠屋裏		800
-嘸在屋裏		800
+嘸徠屋裏	m le uoh lhi	800
+嘸在屋裏	m ze uoh lhi	800
+嘸在屋裏	m zeh uoh lhi	800
 人離屋散		0
-佢屋裏個事幹		0
-爾屋裏個事幹		0
-我屋裏個		3000
+佢屋裏個	gie uoh lhi geh	0
+爾屋裏個	nh uoh lhi geh	0
+我屋裏個	ngho uoh lhi geh	3000
 分屋		789
-勒屋裏		1000
-趒到屋裏		1000
-到屋裏		1000
+勒屋裏	leh uoh lhi	1000
+趒到屋裏	diau tau uoh lhi	1000
+趒勒屋裏	diau leh uoh lhi	1000
+到屋裏	tau uoh lhi	1000
 何人屋裏	ghae n uoh lhi	1500
 何人屋裏	ghae nin uoh lhi	1500
 柬人屋裏	kiae n uoh lhi	1500
 買屋	mha uoh	1500
 賣屋	ma uoh	1500
-宿勒屋裏		1735
-趒轉屋裏		1735
-趒屋裏		1735
+宿勒屋裏	shioh leh uoh lhi	1735
+趒轉屋裏	diau cioe uoh lhi	1735
+趒屋裏	diau uoh lhi	1735
 趒老屋		1052
 趒轉老屋		1052
-徠屋裏		8244
-在屋裏		8244
-外婆屋裏		797
-孃孃屋裏		800
-人家屋裏		800
-別人屋裏		800
-搭屋裏一色		800
-趒人家屋裏		800
-趒別人屋裏		800
-討轉屋裏		800
+徠屋裏	le uoh lhi	8244
+在屋裏	zeh uoh lhi	8244
+在屋裏	ze uoh lhi	8244
+外婆屋裏	nga bu uoh lhi	797
+孃孃屋裏	nian nian uoh lhi	800
+人家屋裏	nin ko uoh lhi	800
+別人屋裏	bih nin uoh lhi	800
+搭屋裏一色	teh uoh lhi ih seh	800
+趒人家屋裏	diau nin ko uoh lhi	800
+趒別人屋裏	diau bih nin uoh lhi	800
+討轉屋裏	thau cioe uoh lhi	800
 造屋		1800
 屋主人		1800
 屋主人家		1800
-屋裏在		1818
-屋裏徠		1818
-屋裏宿勒		1818
+屋裏在	uoh lhi zeh	1818
+屋裏在	uoh lhi ze	1818
+屋裏徠	uoh lhi le	1818
+屋裏宿勒	uoh lhi shioh leh	1818
 屋加屋		800
 屋底		1400
-屋裏有		1075
-屋裏嘸		1075
-屋裏還有㕨		800
+屋裏有	uoh lhi iou	1075
+屋裏嘸	uoh lhi m	1075
+屋裏還有㕨	uoh lhi wa iou va	800
 屋裏嘸沒訤	uoh lhi m mau	800
 屋裏嘸沒訤	uoh lhi m meh ghau	800
 埋勒屋裏	ma leh uoh lhi	1800
@@ -1752,11 +1755,11 @@ columns:
 看屋本領		547
 看屋狗		452
 舊屋		871
-買轉屋裏		583
+買轉屋裏	mha cioe uoh lhi	583
 送貨到屋		519
 畀屋		519
-畀屋裏個		519
-鄰舍屋裏		1818
+畀屋裏個	peh uoh lhi geh	519
+鄰舍屋裏	lin so uoh lhi	1818
 隔壁屋裏	keh pin uoh lhi	871
 屋裏怎而个	uoh lhi tsae n kie	871
 
@@ -1984,10 +1987,10 @@ columns:
 佐隊囥		800
 囥勒心上		882
 囥勒心裏		655
-囥勒心裏門		655
-囥勒眼裏門		807
+囥勒心裏門	khaon leh shin lhi men	655
+囥勒眼裏門	khaon leh nhiae lhi men	807
 囥勒第一位		615
-囥勒眼裏		807
+囥勒眼裏	khaon leh nhiae lhi	807
 囥好		806
 囥完		705
 囥平		567
@@ -2035,13 +2038,13 @@ columns:
 囥一朞		800
 囥後髖間		800
 囥頭前間		800
-囥屋裏		800
-囥裏門		800
-囥裏向		800
+囥屋裏	khaon uoh lhi	800
+囥裏門	khaon lhi men	800
+囥裏向	khaon lhi shian	800
 囥外門		800
 囥外向		800
 囥冰箱		800
-囥冰箱裏門		800
+囥冰箱裏門	khaon pin shian lhi men	800
 囥廚房間		800
 囥浴室間		800
 囥衛生間		800
@@ -2427,11 +2430,11 @@ columns:
 上向個		3800
 下門個		2800
 下向個		2800
-裏門個		2000
+裏門個	lhi men geh	2000
 外門個		2000
-裏向個		2000
+裏向個	lhi shian geh	2000
 外向個		2000
-裏頭個		2000
+裏頭個	lhi dieu geh	2000
 外頭個		2000
 大家人個	da ko nin geh	800
 嚇人個		800
@@ -2442,7 +2445,7 @@ columns:
 我個		42812
 我個夢		832
 我個屋		921
-我屋裏		2800
+我屋裏	ngho uoh lhi	2800
 我個心		232
 我個愛		603
 我個手骨		1660
@@ -2462,8 +2465,8 @@ columns:
 老實個		800
 所有個		800
 孬看個		800
-裏向個		800
-裏門個		800
+裏向個	lhi shian geh	800
+裏門個	lhi men geh	800
 外向個		800
 外門個		800
 一年個		1552
@@ -2508,9 +2511,9 @@ columns:
 何橫個	ghae wan geh	800
 何橫個	gha wan geh	800
 佢個		27947
-佢屋裏		1000
-同學屋裏		800
-佢屋裏個		1000
+佢屋裏	gie uoh lhi	1000
+同學屋裏	don ghoh uoh lhi	800
+佢屋裏個	gie uoh lhi geh	1000
 佢個心		947
 佢個手		1192
 低個		777
@@ -2518,7 +2521,7 @@ columns:
 爾許個	nh he geh	815
 爾倷個		81
 爾伲個		81
-爾屋裏個		1000
+爾屋裏個	nh uoh lhi geh	1000
 爾個		40592
 爾個心		1211
 爾個愛		1033
@@ -2618,7 +2621,7 @@ columns:
 學個		299
 學過來個		799
 屋個		2442
-屋裏個		2960
+屋裏個	uoh lhi geh	2960
 寄個		550
 寫個		6337
 寬個		843
@@ -3259,7 +3262,7 @@ columns:
 好畀		614
 畀眼		600
 畀兄弟		505
-畀屋裏		655
+畀屋裏	peh uoh lhi	655
 畀心		790
 畀手骨		1464
 畀書		790
@@ -3477,7 +3480,7 @@ columns:
 修改訤		360
 退步訤		360
 趒轉來訤		360
-趒轉屋裏訤		360
+趒轉屋裏訤	diau cioe uoh lhi ghau	360
 買來訤		360
 吃完訤		360
 好訤		460
@@ -3775,8 +3778,8 @@ columns:
 搖訤		1080
 搬訤		892
 搶訤		1147
-𨀤倒訤		941
-𨀤斷訤	le doe ghau	514
+擂倒訤		941
+擂斷訤	le doe ghau	514
 撣訤		882
 撐訤		2681
 撦訤		591
@@ -11029,9 +11032,9 @@ columns:
 搬落去		370
 搶落來		427
 搶落去		277
-𨀤落		705
-𨀤落來		595
-𨀤落去		538
+擂落		705
+擂落來		595
+擂落去		538
 摘落		1034
 摘落來		592
 摘落去		317
@@ -12170,7 +12173,7 @@ columns:
 掛勒		2137
 掛勒嘴巴上門		373
 插勒		1040
-𨀤勒		753
+擂勒		753
 撐勒		540
 撒勒		724
 撞勒		788
@@ -12353,9 +12356,9 @@ columns:
 逅㙮人		774
 逅㙮去		991
 是逅㙮	zy ieu tae	991
-逅㙮𨀤倒
-逅㙮𨀤訤
-逅㙮𨀤栲
+逅㙮擂倒
+逅㙮擂訤
+逅㙮擂栲
 逅㙮買		601
 從逅㙮來		848
 從逅㙮	zhion ieu tae	848
@@ -12367,9 +12370,9 @@ columns:
 何裡人	ghae yi nin	774
 何裡去	ghae yi khie	991
 是何裡	zy ghae yi	991
-何裡𨀤倒	ghae yi le tau
-何裡𨀤訤	ghae yi le ghau
-何裡𨀤栲 ghae yi le khau
+何裡擂倒	ghae yi le tau
+何裡擂訤	ghae yi le ghau
+何裡擂栲 ghae yi le khau
 何裡買	ghae yi mha	601
 從何裡	zhion ghae yi	801
 從何裡來	zhion ghae yi le	848
@@ -12382,9 +12385,9 @@ columns:
 何橫人	gha wan nin	774
 何橫去	gha wan khie	991
 是何橫	zy gha wan	991
-何橫𨀤倒	gha wan le tau
-何橫𨀤訤	gha wan le ghau
-何橫𨀤栲 gha wan le khau
+何橫擂倒	gha wan le tau
+何橫擂訤	gha wan le ghau
+何橫擂栲 gha wan le khau
 何橫買	gha wan mha	601
 從何橫	zhion gha wan	801
 從何橫來	zhion gha wan le	848
@@ -17917,7 +17920,7 @@ columns:
 換一記		554
 搬一記		370
 搶一記		277
-𨀤一記		538
+擂一記		538
 撒一記		407
 撕一記		720
 擋一記		229
@@ -18101,7 +18104,7 @@ columns:
 換記		554
 搬記		370
 搶記		277
-𨀤記		538
+擂記		538
 撒記		407
 撕記		720
 擋記		229
@@ -18442,7 +18445,7 @@ columns:
 藏魚望蝦做眼
 撣撣inmehkuaon
 望望行加行
-頭角還嘸𨀤圓
+頭角還嘸擂圓
 嘴上嘸毛
 辦事不牢
 臨老倒竈
@@ -19045,31 +19048,14 @@ B站	b dzae	1800
 暴雨橙色預警
 暴雨紅色預警
 
-########快捷輸入#########
-好用	h y
-好用	hau yon	3000
-好用㖠	h y n
-好用㖠	hau yon na
-快點	k t
-快点	khua tin
-快點㖠	k t n
-快點㖠	khua tin na
-曉得	s t
-曉得訤	s t g
-曉得訤	shiau teh ghau
-曉不得	s f t
-曉不得咦	s f t y
-曉不得咦	shiau feh teh yi
-無用	v y
-好用訤	h y g
-好用訤	hau yon ghau
-IPhone	iphone
-IPhone手機	iphone shiou ci
-IPad	ipad
-Ipod	ipod
-IOS	ios
-IOS系統	ios shi thon
-IOS系統	ios yi thon
+OK	ok
+iPhone	iphone
+iPhone手機	iphone shiou ci
+iPad	ipad
+iPod	ipod
+iOS	ios
+iOS系統	ios shi thon
+iOS系統	ios yi thon
 Android	ae cioh
 Android	android
 Android系統	ae cioh shi thon
@@ -19112,7 +19098,7 @@ GNP	gnp
 ②	n	1500
 ③	sae	1500
 ④	sy	1500
-⑤	ng	1500
+⑤	ngh	1500
 ⑥	loh	1500
 ⑦	chih	1500
 ⑧	peh	1500
@@ -27166,3 +27152,1380 @@ z	z	1800
 惹爾		1800
 惹我		1800
 惹佢		1800
+破賴範		1800
+嘅	gie	200
+該是		1800
+該不是		1800
+該是我		1800
+該是爾		1800
+該是佢		1800
+該是我嘅		1800
+該是爾嘅		1800
+該是佢嘅		1800
+該是我倈		1800
+該是爾倈		1800
+該是佢倈		1800
+該是我侇		1800
+該是爾侇		1800
+該是佢侇		1800
+該是我倈嘅		1800
+該是爾倈嘅		1800
+該是佢倈嘅		1800
+該是我侇嘅		1800
+該是爾侇嘅		1800
+該是佢侇嘅		1800
+爾嘅		1800
+佢嘅		1800
+我嘅		1800
+爾倈嘅		1800
+佢倈嘅		1800
+我倈嘅		1800
+爾侇嘅		1800
+佢侇嘅		1800
+我侇嘅		1800
+是爾嘅		1800
+是佢嘅		1800
+是我嘅		1800
+是爾倈嘅		1800
+是佢倈嘅		1800
+是我倈嘅		1800
+是爾侇嘅		1800
+是佢侇嘅		1800
+是我侇嘅		1800
+擐一記		1800
+聯繫一記		1800
+手機端		1800
+電腦端		1800
+供給側		1800
+需求側		1800
+潔廁靈		1800
+潔廁		1800
+公衛		1800
+の	tsy	2800
+馬上訤		1800
+稅號		1800
+小屋		1800
+再有可能		1800
+最有可能		1800
+VPN	vpn	1800
+紙質版		1800
+電子版		1800
+吃勒		100
+不認識		1800
+X射線	x zo shie	1800
+X軸	x jioh	1800
+Y軸	y jioh	1800
+Z軸	z jioh	1800
+來㕨		1800
+Youtube	youtube	1800
+加湊		1800
+最終會		1800
+Twitter	twitter	1800
+怎而訤啊		1800
+痘印		1800
+痘坑		1800
+MacOS	macos	1800
+ipadOS	ipados	1800
+Apple	apple	1800
+Pencil	pencil	1800
+Apple Pencil	apple pencil	1800
+一分子	#
+一份子		1800
+想看		0
+看不起	#
+不說	#
+叫街	#
+幹		0
+幹我	#
+幹你	#
+幹他	#
+幹她	#
+蚊子	#
+籌子	#
+舅子	#
+胄子	#
+綢子	#
+請您	#
+請你	#
+鄉親	#
+鄉親們	#
+侍兒	#
+字兒	#
+詞兒	#
+事兒	#
+法兒	#
+貳		600
+不貳	#
+猴子	#
+瘊子	#
+睡過	#
+看見	#
+去幹	#
+肚子	#
+二下	#
+又是	#
+趕緊	#
+這屆	#
+好些	#
+餵給	#
+爲啥	#
+傻子	#
+为啥	#
+啥子	#
+丫頭	#
+裝好	#
+不行	#
+眼睛	#
+少不得	#
+多高	#
+壹个人	#
+瓤兒	#
+掌不起	#
+還敢	#
+不睡	#
+小槌	#
+有你	#
+饃饃	#
+剛剛在	#
+剛剛是	#
+剛剛有	#
+要你	#
+困覺	#
+困死	#
+幹壞事	#
+壞事		0
+相見		0
+多條		0
+一住	#
+而下來	#
+想見	#
+想幹	#
+回來	#
+都得	#
+請來	#
+去想	#
+開向	#
+去鄉	#
+看向	#
+看相	#
+多得	#
+輸給	#
+不看	#
+尿急		0
+數給	#
+虛給	#
+躲得	#
+還得	#
+壞得	#
+去住	#
+我們	#
+妖物	#
+給他	#
+羅唆	#	511
+看起來	#
+歇着	#
+削着	#
+失着	#
+部分	#
+老蔫	#
+女婿	#
+越說	#
+巒嶂		0
+乾旦		0
+少不得	#
+要把	#
+爾來	#
+張華	
+閒兒	#
+萬多	#
+掉出來	#
+爾時	#
+好忙	#
+派賴	#
+帳號	#
+二話	#
+會來	#
+不要	#
+不要將	#
+髒死	#
+个个	#
+笑得	#
+燒得	#
+小德		0
+少得	#
+小得	#
+銷得	#
+好說	#
+稍可	#
+甲士		0
+渠們	#
+剛剛	#
+剛好	#
+剛到	#
+我剛	#
+繫个	#
+燒點	#
+且要	#
+有些兒	#
+你真	#
+看些	#
+砍些	#
+刊些	#
+不應		20
+所有格		0
+共效	#
+下午	#
+上午	#
+中午	#
+早上	#
+晚上	#
+相象	#
+好象	#
+好象是	#
+獨个兒	#
+靈寢	#
+靈櫬	#
+令親		0
+這位		0
+這是		0
+這與		0
+這一	#
+亮底兒	#
+這要	#
+抓人	#
+真是	#
+找人	#
+看書	#
+看戲	#
+爪兒	#
+罩兒	#
+快點兒	#
+這也	#
+這次	#
+這臺	#
+開玩笑	#
+大耗子 	#
+耗子	#
+說出來	#
+人說	#
+看见	#
+人家說	#
+我說	#
+玩笑	#
+常向	#
+這車	#
+這些		0
+這个	#
+給个	#
+是給	#
+差點	#
+白澳	#
+零壹	#
+八伯	#
+鼻子	#
+少加	#
+坊子	#
+龜龜	#
+睡着	#
+沒過	#
+我該	#
+掉落	#
+說啥	#
+伯伯	#
+學校	#
+房子	#
+車子	#
+五下	#
+一下	#
+這起	#
+兩下	#
+三下	#
+四下	#
+六下	#
+那兒	#
+哪兒	#
+這兒	#
+七下	#
+這行	#
+八下	#
+鄉心	#
+鄉信	#
+九下	#
+這格	#
+十下	#
+句子	#
+鬼子	#
+駒子	#
+鋸子	#
+季子	#
+不第	#
+不弟	#
+不題	#
+龜子	#
+真臘	#
+倍常	#
+這隻	#
+這給	#
+接給	#
+這幾	#
+這既	#
+舉子	#
+鉤勒	#
+沒事	#
+沒詞	#
+我倆	#
+脫產	#
+歸子	#
+真臘	#
+進些	#
+盡些	#
+叉子	#
+想得	#
+岔子	#
+汊子	#
+發給	#
+不給	#
+安足	#
+說得	#
+搭腔	#
+答腔	#
+瓦肆	#
+馬爾	#
+嗎兒 	#
+咋	#
+不搭腔	#
+不答腔	#
+不得勁	#
+看牢	#
+不得空	#
+杈子	#
+說過	#
+乘車	#
+乘船	#
+乘飛機	#
+嬤嬤	#
+不庭	#
+友生	#
+因你	#
+因您	#
+不亭	#
+弗庭	#
+想說	#
+係一種	# 
+老伯	#
+都說	#
+說法	#
+說不	#
+好去	#
+寶兒	#
+寫些	#
+些些	#
+這時	#
+這事	#
+給事	#
+接茬	#
+急茬	#
+說着	#
+鴿市	#
+地兒	#
+底兒	#
+佔地兒	#
+好地	#
+好睇	#
+包兒	#
+保兒	#
+鴇兒	#
+我敢	#
+說了 	#
+摔了	#
+摔倒	#
+說到	#
+說的	#
+說錯	#
+說點	#
+說岔	#
+說來	#
+遺骸	#
+答兒	#
+這股	#
+這歌	#
+這裏	#
+這類	#
+這兩	#
+給了	#
+這輛	#
+這倆	#
+這籃	#
+這輪	#
+接了	#
+結了	#
+給臉	#
+這連	#
+這聯	#
+看來	#
+看了	#
+欠了	#
+簽了	#
+牽了	#
+遷了	#
+隔法	#
+港九	#
+槓龜	#
+燃臍	#
+媽兒	#
+給予		0
+給與		0
+不錯		10
+德爾		0
+你愛	#
+二漢	#
+扯淡	#
+扯蛋	#
+扯談	#
+畸人	#
+雞人	#
+濟人	#
+棘人	#
+真影	#
+振纓	#
+枝兒	#
+子兒	#
+射到	#
+冰兒	#
+病兒	#
+顰兒	#
+廁所	#
+昨兒	#
+泥酒	#
+艾酒	#
+艤舟	#
+多些	#
+一系	#
+神觀	#
+城固	#
+進益	#
+晉謁	#
+津要	#
+進謁	#
+飢溺	#
+襟要	#
+京邑	#
+征衣	#
+制義	#
+制藝	#
+繩子	#
+誠徵	#
+靚仔	#
+城子	#
+甸子	#
+儘子	#
+神紙	#
+慎子	#
+身子	#
+嬸子	#
+心子	#
+芯子	#
+信子	#
+性子	#
+星子	#
+幸子	#
+杏子	#
+行子	#
+迅指	#
+情致	#
+情知	#
+情資	#
+加些	#
+個裏	#
+門兒	#
+大奇	#
+馱橋	#
+旗籍	#
+滅紀	#
+箇市	#
+清車	#
+寢車	#
+乘火車	#
+他們	#
+你們	#
+你問	#
+您們	#
+他懣	#
+這樣	#
+大劍	#
+大建	#
+大奸	#
+話兒	#
+畫兒	#
+花兒	#
+玩兒	#
+碗兒	#
+萬兒	#
+彎兒	#
+二劃	#
+擔兒	#
+旦兒	#
+準兒	#
+我是誰	#
+我市		0
+好滴	#
+這把	#
+个中	#
+箇中		1800
+箇中滋味
+箇中翹楚
+箇中好手
+箇中高手
+箇中原因
+箇中原由
+个中滋味	#
+个中翹楚	#
+這句	#
+這季	#
+照片子	#
+幫兒	#
+皮兒	#
+主要	ciu iau
+要害	iau ghe
+要點	iau tie
+必要	pih iau
+提要	di iau
+只要	tsy iau
+緊要	kin iau
+緊要	cin iau
+要政	iau cin
+要證	iau cin
+政要	cin iau
+要素	iau sou
+要約	iau ih
+要束	iau shioh
+要道	iau dau
+要地	iau di
+要衝	iau chion
+要職	iau cih
+要旨	iau tsy
+要強	iau jian
+要件	iau jie
+要強	iau gian	
+要件	iau gie
+要訣	iau kioh
+要訣	iau cioh
+
+長長	cian jian
+波長	pu jian
+
+臘月	leh nioh
+臘肉	leh nioh
+
+想个	shian keh
+
+指點	tsy tie
+支點	tsy tie
+只點	tsy tie
+
+還是	wa zy
+還有	wa iou
+還可	wa kho	0
+還好	wa hau
+還可以	wa kho i
+還以	wa i
+還要	wa ih
+還要	wa iau
+還想	wa shian
+還向	wa shian	0
+還摸	wa moh
+還小	wa shiau
+還細	wa shi
+還少	wa shiau
+還笑	wa shiau
+返還	fae wae
+還鄉	wae shian
+
+寧波	nin pu
+蘇寧	sou nin
+安寧	ae nin
+安寧	ie nin
+列寧	lih nin
+寧靜	nin zhin
+寧夏	nin gho
+遼寧	liau nin
+寧馨兒	nen shin n
+寧馨	nen shin
+
+不許	feh hiu
+不許	feh shiu
+許願	hiu nioe
+許願	shiu nioe
+期許	ji hiu
+允許	ion hiu
+期許	ji shiu
+允許	ion shiu
+許多	hiu tou
+許配	hiu phe
+許可	hiu kho
+許可證	hiu kho cin
+許多	shiu tou
+許配	shiu phe
+許可	shiu kho
+許可證	shiu kho cin
+介許	ka shiu	3000
+介許多	ka shiu tou	3000
+介許大	ka shiu dou	3000
+介許小	ka shiu shiau	3000
+介許少	ka shiu shiau	3000
+介許細	ka shiu shi	3000
+
+而下	n o
+
+數字	sou zy
+數詞	sou zy
+數碼	sou mho
+數目	sou moh
+數據	sou kiu
+數額	sou ngeh
+數量	sou lian
+數學	sou ghoh
+數理	sou lhi
+代數	de sou
+少數	shiau sou
+小數	shiau sou
+理數	lhi sou
+禮數	lhi sou
+年數	nie sou
+路數	lou sou
+衆數	cion sou
+氣數	chi sou
+氣數	khi sou
+票數	phiau sou
+人數	nin sou
+實數	zhih sou
+作數	tsoh sou
+字數	zy sou
+時數	zy sou
+指數	tsy sou
+整數	cin sou
+歲數	shiu sou
+虛數	shiu sou
+定數	din sou
+約數	ih sou
+倍數	be sou
+基數	ci sou
+計數	ci sou
+奇數	ci sou
+基數	ki sou
+計數	ki sou
+奇數	ki sou
+充數	chion sou
+除數	jiu sou
+盡數	cin sou
+正數	cin sou
+噸數	ten sou
+多數	tou sou
+序數	zhiu sou
+因數	in sou
+形數	yin sou
+等數	ten sou
+對數	te sou
+函數	ghae sou
+負數	vu sou
+單數	tae sou
+雙數	shiaon sou
+底數	ti sou
+真數	cin sou
+變數	pie sou
+比數	pi sou
+分數	fen sou
+个數	keh sou
+位數	yu sou
+爲數	yu sou
+餘數	yu sou
+維數	yu sou
+數據庫	sou kiu khu
+數字化	sou zy hua
+數量級	sou lian cih
+數量積	sou lian cih
+數學方法	sou ghoh faon feh
+數學分析	sou ghoh fen shih
+數字電視	sou zy die zy
+數碼相機	sou mho shian ci
+數碼相機	sou mho shian ki
+數理統計	sou lhi thon ci
+數理統計	sou lhi thon ki
+
+方便	faon bie
+隨便	zhiu bie
+方便麪	faon bie mie
+便服	bie voh
+便士	bie zy
+便鞋	bie gha
+便於	bie yu
+便路	bie lou
+便利	bie li
+便利店	bie li tie
+小便	shiau bie
+大便	da bie
+便器	bie chi
+便器	bie khi
+坐便器	zo bie chi
+坐便器	zo bie khi
+便衣	bie i
+
+流行	liou ghan
+私行	sy ghan
+肆行	sy ghan
+施行	sy ghan
+推行	the ghan
+履行	liu ghan
+旅行社	lhiu ghan zo
+旅行	lhiu ghan
+
+執行	cih ghan
+試行	sy ghan
+實行	zhih ghan
+前行	zhie ghan
+可行	kho ghan
+疾行	zhih ghan
+行駛	ghan sa
+行賞	ghan saon
+行使	ghan sy
+行星	ghan shin
+行商	ghan shian
+行省	ghan san
+行銷	ghan shiau
+行屍	ghan sy
+行速	ghan soh
+行書	ghan shiu
+行兇	ghan shion
+行兇	ghan hion
+行走	ghan cieu
+行動	ghan don
+行爲	ghan yu
+行囊	ghan naon
+通行	thon ghan
+人行道	nin ghan dau
+車行道	tsho ghan dau
+跨行	khua ghaon
+銀行	nin ghaon
+投行	dieu ghaon
+一行	ih ghaon
+幾行	ci ghaon
+幾行	ki ghaon
+行數	ghaon sou
+詩行	sy ghaon
+兩行	lhian ghaon
+頭行	dieu ghaon
+三行	sae ghaon
+四行	sy ghaon
+五行	ngh ghaon
+六行	loh ghaon
+七行	chih ghaon
+行道	ghan dau
+八行	peh ghaon
+九行	ciou ghaon
+十行	zhih ghaon
+投資銀行	dieu tsy nin ghaon
+行當	ghaon taon
+行行	ghaon ghaon
+進行	cin ghan
+整行	cin ghaon
+行道樹	ghan dau zhiu
+景行	#
+
+音樂	in ngoh
+電子音樂	die tsy in ngoh
+黑人音樂	heh nin in ngoh
+輕音樂	chin in ngoh
+古典音樂	ku tie in ngoh
+搖滾樂	yau kuen ngoh
+重金屬樂	jion cin zhion ngoh
+聲樂	shin ngoh
+聖樂	shin ngoh
+樂器	ngoh chi
+樂理	ngoh lhi
+樂隊	ngoh de
+樂曲	ngoh chioh
+樂經	ngoh cin
+樂趣	loh chiu
+快樂	khua loh
+可樂	kho loh
+樂事	loh zy
+可口可樂	kho khieu kho loh
+可口可樂	kho chieu kho loh
+百事可樂	peh zy khp loh
+樂園	loh yoe
+樂意	loh i
+迪士尼樂園	dih zy ni loh yoe
+樂天	loh thie
+樂土	loh thou
+樂觀	loh kue
+歡樂	hue loh
+娛樂	niu loh
+娛樂場	niu loh jian
+享樂	shian loh
+
+自在	zy ze
+不自在	feh zy ze
+
+屋基	uoh ci
+屋基	uoh ki
+
+去除	khiu jiu
+去勢	khiu shi
+去皮	khiu bi
+減去	kiae khiu
+除去	jiu khiu
+
+推斷	the toe
+判斷	phoe toe
+斷定	toe din
+斷案	toe ie
+斷案	toe ae
+斷層	doe zen
+不斷	feh doe
+斷路	doe lou
+斷路器	doe lou chi
+斷面	doe mie
+中斷	cion doe
+斷奶	doe nha
+熔斷	yon doe
+
+學說	ghoh shioh
+假說	ko shioh
+說唱	shioh tshaon
+說古	shioh ku
+說明	shioh min
+說明書	shioh min shiu
+訴說	sou shioh
+傳說	jioe shioh
+說說	shioh shioh	
+遊說	you shiu
+說客	shiu kheh
+不亦說乎	feh yih yoh hu	
+
+先去	shie khie
+不去	feh khie
+去不去	khie feh khie
+要去	ih khie
+想去	shian khie
+
+審校	shin kau
+校對	kau te
+校閱	kau yoh
+校訂	kau tin
+駕校	ko ghau
+校外	ghau nga
+校徽	ghau hiu
+校徽	ghau hue
+校服	ghau voh
+校園	ghau yoe
+校車	ghau tsho
+
+長度	jian dou
+長途	jian dou
+爲之自豪		1800
+爲之驕傲		1800
+爲之自豪個		1800
+爲之驕傲個		1800
+儂個		1800
+上個		1800
+伊拉		1800
+箇位		1800
+檞位		1800
+戇訤	gon ghau	1800
+大大
+增強訤	tsen jian ghau	3000
+增長訤	tsen cian ghau	3000
+增長訤	tsen jian ghau	200
+休要選	shiau shioe	1800
+最好休要	tse hau shiau	2800
+還是休要	wa zy shiau	2800
+最好笑個		1800
+逅㙮尋來		1800
+逅㙮尋來個		1800
+爾逅㙮		1800
+爾哪㙮		1800
+過期訤		1800
+了解到		1800
+哪㙮尋來		1800
+哪㙮尋來個		1800
+題幹		1800
+腳腰環		1800
+博主		1800
+買不起啊		1800
+浙大	cih da
+擂栲	le khau	1800
+擂栲訤	le khau ghau	1800
+一个星期		1800
+一个月		1800
+爾嘸處	nh m chiu	1800
+我嘸處	ngho m chiu	1800
+佢嘸處	gie m chiu	1800
+爾嘸處	nh m chioh	1800
+我嘸處	ngho m chioh	1800
+佢嘸處	gie m chioh	1800
+爾嘸處	nh m chih	1800
+我嘸處	ngho m chih	1800
+佢嘸處	gie m chih	1800
+趤趤相		1800
+一界訤		1800
+一朞訤		1800
+等我一朞		1800
+等爾一朞		1800
+等你	#
+等佢一朞		1800
+等佢倈一朞		1800
+等我倈一朞		1800
+等爾倈一朞		1800
+等佢侇一朞		1800
+等我侇一朞		1800
+等爾侇一朞		1800
+尋過訤		1800
+嘸尋過		1800
+有嘸徠		1800
+亂搒		1800
+顯著個		1800
+突出個		1800
+徠一許	le ih he	1800
+呆大訤		1800
+現時個		1800
+徠有許	le iou he	1800
+阿丈	a jian	2300
+阿丈	eh jian	2300
+阿太	a tha	2300
+姑姑	ku ku	2300
+姑姑	kau kau	2300
+何人叫爾	ghae n ciau nh	2300
+何人叫爾	ghae nin ciau nh	2300
+連橫		5000
+量橫		5000
+勿會講訤	ve kaon ghau	5000
+上一條		5000
+阿叔	eh shion	5000
+阿叔	eh tse	5000
+阿叔	a tse	5000
+姑姑	kau kau	5000
+後髖個		5000
+頭前個		5000
+細點個	shi tin geh	5000
+大點個	dou tin geh	5000
+小娘舅		5000
+大娘舅		5000
+第二學位		5000
+從一个		5000
+有一定		5000
+老好啊		5000
+差眼湊便	tsho nhiae chieu be	5000
+再後晚		5000
+擦栲		5000
+腳末指頭		5000
+吃湊		5000
+對應個		5000
+其對應個		5000
+拉訤		5000
+再尋一記		5000
+遁	den	5000
+遁訤		5000
+遁勒		5000
+嘸遁		5000
+勿會遁		5000
+休要遁訤	shiau den ghau	5000
+何人嘅	ghae n gie	5000
+何人嘅	ghae nin gie	5000
+柬人嘅	kiae n gie	5000
+何人嘅啊	ghae n gie a	5000
+何人嘅啊	ghae nin gie a	5000
+柬人嘅啊	kiae n gie a	5000
+家庭關系		5000
+妝遁訤		5000
+趒遁訤		2000
+辱華		2000
+個觀點		2000
+個觀念		2000
+平等個		2000
+先進個		2000
+箇勿	keh veh	50000
+雙皮奶		2000
+反映訤		2000
+逅一步		2000
+哪一步		2000
+院級		2000
+左右橫跳		2000
+橫跳		2000
+落地鐵		2000
+只是講		2000
+也與		2000
+箇與		2000
+文旦	ven dae	2000
+美妝		2000
+視作爲		2000
+視作是		2000
+珀萊雅		2000
+綜上		2900
+相較於		2900
+仍對		2900
+確認一記		2900
+水彈槍		2000
+買一瓶		2000
+不乘		50000
+重口味		2000
+這口	#
+屄	#
+篌瞭解		2000
+阿妗		2000
+青塘		2000
+青塘背		2000
+忒狹		2000
+忒闊		2000
+啊這
+背書	be shiu
+背好訤	be hau ghau	2000
+背好訤	pe hau ghau
+便好訤		1000
+勿會背	veh we be
+勿會背	veh we pe
+背不來	be feh le
+背不來	pe feh le
+背叛	be boe
+背畀	be peh
+背畀	pe peh
+背背相	be be shian
+背背相	pe pe shian
+不背	feh be
+不背	feh pe
+勿會背	ve be
+勿會背	ve pe
+尚處於		2000
+成立於		2000
+莊嚴個		2000
+囥爾褱㙮		800
+囥佢褱㙮		800
+囥爾倈褱㙮		800
+囥佢倈褱㙮		800
+囥爾侇褱㙮		800
+囥佢侇褱㙮		800
+囥褱門		800
+囥褱柢		800
+囥褱㙮		800
+褱樣個		815
+褱个搭	
+褱个搭	
+畀褱个		3195
+褱个畀	
+畀褱个		1195
+褱个畀		989
+嘸在褱㙮訤		601
+嘸徠褱㙮訤		601
+褱㙮徠㙮		1000
+褱㙮在㙮		1000
+褱門徠㙮		1000
+褱門在㙮		1000
+褱面相徠㙮		1000
+褱面相在㙮		1000
+褱面徠㙮		1000
+褱面在㙮		1000
+褱下向		1237
+褱下門		1237
+褱上向		1237
+褱上門		1237
+褱裏門		1237
+褱裏向		1237
+褱一		1581
+褱一个		181
+褱一刻		2135
+褱一夜		818
+褱一日		1815
+褱一年		1176
+褱一次		856
+褱一瞬間		921
+褱一種		807
+褱世		428
+褱也		117
+褱也是		175
+褱个也		1817
+褱个也是		1875
+褱許		35254
+褱許人		1619
+褱許物事		1619
+褱許事幹		1619
+褱人		102
+褱个人		2602
+褱件		73
+褱个事幹		650
+褱份		2242
+褱位		3951
+褱个		118070
+褱个人		2818
+褱个宕地		1080
+褱个女人		1082
+褱个物事		995
+褱个時候		2286
+褱个月		504
+褱个男人		1114
+褱兒		3621
+褱兩个		869
+褱具		556
+褱冊		374
+褱副		862
+褱匹		543
+褱區		427
+褱个貤		851
+褱句		1719
+褱句話		1597
+褱只是		697
+褱只有		577
+褱个只是		697
+褱个只有		577
+褱个噢		1414
+褱个可以		1079
+褱回		501
+褱圈		435
+褱个國家		557
+褱場		1400
+褱塊		1721
+褱夜		615
+褱班人		495
+褱日		11244
+褱日黃昏		1139
+褱日夜裏	ka nih ya lheh	1139
+褱日枯心		1139
+褱套		1145
+褱女人		905
+褱个女人		905
+褱份人家		2160
+褱个對		840
+褱个後生頭		933
+褱个便		14465
+褱个便是		5564
+褱便		14465
+褱便是		5564
+褱層		743
+褱年		1643
+褱幾		978
+褱幾个		1675
+褱幾日		649
+褱幾次		466
+褱座		915
+褱張		3388
+褱个溘仂		763
+赫我便		1347
+褱份		487
+褱个再		860
+褱个再是		860
+褱个再有		860
+褱批		731
+褱把		989
+褱捲		465
+褱隻		833
+褱方面		571
+褱个方面		571
+褱是		17101
+褱是我		1159
+褱个是		17101
+褱个是我		1159
+褱時		6579
+褱時候		5143
+褱个時候		5143
+褱夜		1078
+褱朞		1356
+褱一朞		1356
+褱个有		975
+褱本		1282
+褱本書		612
+褱杯		598
+褱根		1015
+褱條		2072
+褱株		789
+褱樣		20167
+褱樣子		879
+褱个樣子		879
+褱樣個		815
+褱次		2904
+褱款		1046
+褱步		0
+褱段		2682
+褱一段		2682
+褱片		1262
+褱班		556
+褱个當然		597
+褱盞		551
+褱種		19355
+褱種是		1355
+褱種人		628
+褱種事幹		628
+褱種物事		628
+褱種感覺		1104
+褱站		517
+褱筆		562
+赫等		384
+褱箱		420
+褱篇		1249
+褱股		943
+褱个可以		600
+褱般		1069
+褱㙮		34029
+褱門		34029
+褱柢		34029
+褱要		1110
+褱个要		1110
+褱許話		506
+褱竻話		506
+褱个話		506
+褱个應該		752
+褱个功課		414
+褱起		507
+褱部		972
+褱部車		573
+褱道		894
+褱个還		1307
+褱間		963
+褱隻		2369
+褱集		511
+褱雙		1334
+褱面		822
+褱頁		483
+褱頂		535
+褱項		493
+褱頭		1246
+褱顆		1133
+褱首		1405
+褱首歌		884
+褱點眼		1516
+褱齣劇		187
+褱齣好戲		167
+褱齣電影		226
+到褱		944
+到褱个時候		552
+到褱㙮		674
+到褱門		674
+到褱柢		674
+勒褱		944
+勒褱个時候		552
+勒褱㙮		674
+勒褱門		674
+勒褱柢		674
+趒褱		817
+趒褱㙮		1046
+趒褱門		1046
+趒褱柢		1046
+因爲褱个		1007
+因爲褱		1007
+在褱		3746
+在褱个		2746
+在褱㙮		691
+在褱門		691
+在褱柢		691
+徠褱		3746
+徠褱个		2746
+徠褱㙮		691
+徠褱門		691
+徠褱柢		691
+便是褱个		1230
+便是褱種		1230
+從褱		1046
+從褱个		1046
+從褱時候		536
+從褱時起		573
+我褱个		1232
+畀褱个		1195
+畀褱		1195
+望褱个		1237
+望褱㙮		1237
+望褱門		1237
+望褱柢		1237
+講褱个		882
+趒褱		817
+趒褱㙮		1046
+趒褱柢		1046
+趒箇㙮		480
+趒褱㙮		480
+趒箇㙮去		480
+趒褱㙮去		480
+摸褱門趒
+摸褱㙮趒
+摸褱柢趒
+摸褱柢		590
+佇徠褱		800
+佇个徠褱		677
+在褱㙮		677
+徠褱㙮		677
+勒褱㙮		677
+還徠褱㙮		1800
+還勒褱㙮		1800
+還在褱㙮		1800
+便在褱		1083
+便在褱㙮		974
+便在褱門		974
+便在褱柢		974
+便徠褱		1083
+便徠褱㙮		974
+便徠褱門		974
+便徠褱柢		974
+便是褱个		1230
+褱許	wa he	35254
+褱許是	wa he zy	3525
+褱許	gha he	35254
+褱許是	gha he zy	35254
+褱許人	wa he nin	1619
+褱許人	gha he nin	1619
+褱許事幹	gha he zy cie	681
+褱許事幹	gha he zy kie	681
+褱許事幹	wa he zy cie	681
+褱許事幹	wa he zy kie	681
+褱許物事	wa he meh zy	681
+褱許物事	gha he meh zy	681
+褱許宕地	gha he daon di	681
+褱許問題	gha he men di	1849
+褱許問題	gha he ven di	1849
+褱許年	gha he nie	716
+褱許年來	gha he nie le	637
+褱許話	gha he wa	1196
+褱許話	gha he gho	1196
+褱許都是	gha he tou zy	1779
+褱許宕地	wa he daon di	681
+褱許問題	wa he men di	1849
+褱許問題	wa he ven di	1849
+褱許年	wa he nie	716
+褱許年來	wa he nie le	637
+褱許話	wa he wa	1196
+褱許話	wa he gho	1196
+褱許都是	wa he tou zy	1779
+褱竻		35254
+褱竻是		35254
+褱竻人		1619
+褱竻事幹		681
+褱竻事幹		681
+褱竻物事		681
+褱竻宕地		681
+褱竻問題		1849
+褱竻年		716
+褱竻年來		637
+褱竻話		1196
+褱竻都是		1779
+被褱許 		1000
+被褱个		1000
+被褱竻		1000
+搭褱个		1000
+被褱許 		1000
+每部份 		1000
+洗一个 		1000
+是何物啊 	zy gha mh a	1000
+挑一个		1000
+紅筆		1000
+藍筆		1000
+黑筆		1000
+水筆		1000
+閾限		1000
+門字框		1000
+桄		25000
+一桄		5000
+兩桄		5000
+三桄		5000
+四桄		5000
+五桄		5000
+六桄		5000
+七桄		5000
+八桄		5000
+九桄		5000
+十桄		5000
+現存個		5000
+
